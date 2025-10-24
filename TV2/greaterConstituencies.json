@@ -1,0 +1,62 @@
+[
+    {
+    "value": 9000400,
+    "label": "Bornholms Storkreds",
+    "councilType": "folketing",
+    "councilTypePlural": "folketinget"
+  },
+  {
+    "value": 9000600,
+    "label": "Fyns Storkreds",
+    "councilType": "folketing",
+    "councilTypePlural": "folketinget"
+  },
+  {
+    "value": 9000200,
+    "label": "Københavns Omegns Storkreds",
+    "councilType": "folketing",
+    "councilTypePlural": "folketinget"
+  },
+  {
+    "value": 9000100,
+    "label": "Københavns Storkreds",
+    "councilType": "folketing",
+    "councilTypePlural": "folketinget"
+  },
+  {
+    "value": 9001000,
+    "label": "Nordjyllands Storkreds",
+    "councilType": "folketing",
+    "councilTypePlural": "folketinget"
+  },
+  {
+    "value": 9000300,
+    "label": "Nordsjællands Storkreds",
+    "councilType": "folketing",
+    "councilTypePlural": "folketinget"
+  },
+  {
+    "value": 9000500,
+    "label": "Sjællands Storkreds",
+    "councilType": "folketing",
+    "councilTypePlural": "folketinget"
+  },
+  {
+    "value": 9000700,
+    "label": "Sydjyllands Storkreds",
+    "councilType": "folketing",
+    "councilTypePlural": "folketinget"
+  },
+  {
+    "value": 9000900,
+    "label": "Vestjyllands Storkreds",
+    "councilType": "folketing",
+    "councilTypePlural": "folketinget"
+  },
+  {
+    "value": 9000800,
+    "label": "Østjyllands Storkreds",
+    "councilType": "folketing",
+    "councilTypePlural": "folketinget"
+  }
+]

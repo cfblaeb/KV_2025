@@ -1,0 +1,1544 @@
+[
+  {
+    "id": 650,
+    "text": "Flere opgaver i den offentlige sektor skal fremover løses af private virksomheder",
+    "cluster_id": 16,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 651,
+    "text": "Offentlige institutioner tager for mange hensyn til religiøse minoriteter, for eksempel ved at tilbyde måltider uden svinekød",
+    "cluster_id": 5,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 652,
+    "text": "Investering i vejnettet haster mere end investering i kollektiv trafik",
+    "cluster_id": 8,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 654,
+    "text": "Det er muligt at spare penge i den offentlige sektor, uden at det går ud over den offentlige velfærd",
+    "cluster_id": 17,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 656,
+    "text": "Kommuneskatten i Lemvig Kommune skal sættes op og pengene skal bruges på bedre velfærd",
+    "cluster_id": 10,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 664,
+    "text": "Lemvig Kommune skal gøre det billigere at drive virksomhed",
+    "cluster_id": 16,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 666,
+    "text": "Der skal opsættes flere anlæg til vedvarende energi som vindmøller og solceller i Lemvig Kommune",
+    "cluster_id": 3,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 667,
+    "text": "Lemvig Kommune skal sikre frokostordning i folkeskolen, selv om det kan tage penge fra andre opgaver",
+    "cluster_id": 0,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 672,
+    "text": "Ældre skal kunne tilkøbe ekstra service på de kommunale plejehjem",
+    "cluster_id": 1,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 675,
+    "text": "Lemvig Kommune skal prioritere, at skoleelever bliver blandet efter etnicitet og social baggrund – også selv om det kan gå ud over forældrenes fri skolevalg",
+    "cluster_id": 0,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 676,
+    "text": "Der skal indføres højere brugerbetaling på kultur- og fritidstilbud som teatre, ungdomsklubber og biblioteksarrangementer",
+    "cluster_id": 6,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 688,
+    "text": "Det skal være lettere at få byggetilladelse i Ikast-Brande Kommune",
+    "cluster_id": 4,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 690,
+    "text": "Ikast-Brande Kommune skal investere mere i offentlig transport mellem kommunens byer",
+    "cluster_id": 2,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 908,
+    "text": "Det er vigtigere at reparere eksisterende veje end at sætte gang i nye anlægsprojekter",
+    "cluster_id": 8,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 924,
+    "text": "Det er en god ide at etablere en solcellepark ved Dærup",
+    "cluster_id": 3,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 925,
+    "text": "Assens Kommune skal skabe flere buslinjer i kommunens yderområder",
+    "cluster_id": 2,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 810,
+    "text": "Vejen Kommune skal etablere flere tilbud i kommunen til udsatte børn og unge",
+    "cluster_id": 17,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 811,
+    "text": "Kommunen skal bruge flere penge på at styrke skoleområdet",
+    "cluster_id": 0,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 990,
+    "text": "Kommunen skal lukke folkeskoler med færre end 100 elever for at spare penge",
+    "cluster_id": 0,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 991,
+    "text": "Den kollektive trafik skal styrkes med flere busafgange",
+    "cluster_id": 2,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 992,
+    "text": "Der skal bygges et kulturhus i Hedensted",
+    "cluster_id": 6,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 860,
+    "text": "Favrskov skal etablere solcelleanlæg, vindmølleparker og biogasanlæg som det planlagte solcelleanlæg ved Hadsten-Nr. Galten",
+    "cluster_id": 3,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 869,
+    "text": "Politikerne skal sikre byudvikling i den vestlige del af Favrskov Kommune – for eksempel i form af byggegrunde og andre anlægsprojekter",
+    "cluster_id": 4,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 870,
+    "text": "Favrskov Kommune skal bygge en idrætshal i forbindelse med det kommende skolebyggeri i Foldby-Norring",
+    "cluster_id": 0,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 691,
+    "text": "Der må gerne bygges flere højhuse i min kommune",
+    "cluster_id": 4,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 692,
+    "text": "Der skal investeres mere i kulturlivet i Silkeborg Kommune",
+    "cluster_id": 6,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 693,
+    "text": "Det skal være lettere at få byggetilladelse i Silkeborg Kommune",
+    "cluster_id": 4,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 808,
+    "text": "Kommunens nuværende indsats og igangværende planer mod oversvømmelser i Vejle er tilstrækkelige",
+    "cluster_id": 14,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 809,
+    "text": "Der skal etableres en havnetunnel i Vejle by for at aflaste trafikken",
+    "cluster_id": 2,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 682,
+    "text": "Der skal investeres mere i kulturlivet i Lemvig Kommune",
+    "cluster_id": 6,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 683,
+    "text": "Det skal være lettere at få byggetilladelse i Lemvig Kommune",
+    "cluster_id": 4,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 685,
+    "text": "Natur er vigtigere end byggeri af nye sommerhuse",
+    "cluster_id": 4,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 686,
+    "text": "Lemvig Kommune skal investere mere i offentlig transport mellem kommunens byer",
+    "cluster_id": 2,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 903,
+    "text": "Nørreport i Aabenraa skal bevares som et grønt område med plads til børn og bænke",
+    "cluster_id": 19,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 904,
+    "text": "Der skal opsættes flere solceller og vindmøller i Aabenraa Kommune",
+    "cluster_id": 3,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 797,
+    "text": "Ærø skal indføre forbud mod at bruge sprøjtegifte på hele øen",
+    "cluster_id": 14,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 934,
+    "text": "Kommunen skal indkøbe nye elfærger til Ærø",
+    "cluster_id": 2,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 1002,
+    "text": "Der skal bygges en ny daginstitution i Ærøskøbing",
+    "cluster_id": 9,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 794,
+    "text": "Varde kommune skal finde plads til nye solcelleparker og vindmøller",
+    "cluster_id": 3,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 796,
+    "text": "Kommunen skal arbejde for at få flere turister til kommunens ferieområder",
+    "cluster_id": 11,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 792,
+    "text": "Der skal gøres mere for at udvikle kommunens mindre byer med begivenheder, grønne oaser og nye erhvervstiltag",
+    "cluster_id": 16,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 698,
+    "text": "Der bliver bygget for mange højhuse",
+    "cluster_id": 4,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 702,
+    "text": "Politikerne skal forhindre opførelse af moskeer",
+    "cluster_id": 5,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 703,
+    "text": "Der skal etableres flere parkeringspladser i Aalborg Kommune",
+    "cluster_id": 2,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 717,
+    "text": "Letbanens etape 2 til Vollsmose og Seden fra centrum af Odense skal etableres",
+    "cluster_id": 2,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 718,
+    "text": "Det er en god idé at etablere et nyt stort erhvervsområde ved Blommenslyst i Odense V",
+    "cluster_id": 16,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 750,
+    "text": "Planerne om opførelsen af Marina City - et større samlet boligområde ved havnen og ny lystbådehavn - skal føres ud i livet, selv om de samlede omkostninger er usikre",
+    "cluster_id": 4,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 751,
+    "text": "Der skal bygges boliger langs åen i Kolding midtby, blandt andet hvor der lige nu er parkeringspladser",
+    "cluster_id": 2,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 752,
+    "text": "Kommunen skal gøre mere for at sikre elevernes trivsel på skolerne",
+    "cluster_id": 0,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 836,
+    "text": "Svendborg Kommune skal igen have to tankbiler i beredskabet og ikke kun en til fx brandslukning",
+    "cluster_id": 13,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 838,
+    "text": "Det er en god idé at udvikle Svendborg Havn med boliger, hotel og erhverv",
+    "cluster_id": 9,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 737,
+    "text": "Det er en god idé, at kommunen er med til at finansiere det årlige klimafolkemøde",
+    "cluster_id": 14,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 759,
+    "text": "Middelfart Kommune skal droppe førskoleordningen, hvor kommende skolebørn stopper i børnehaven og starter i SFO i foråret",
+    "cluster_id": 0,
+    "sentiment": "negativ"
+  },
+  {
+    "id": 707,
+    "text": "Nyborg Kommune skal servere mere vegetarisk mad og mindre kød på kommunens plejehjem",
+    "cluster_id": 1,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 709,
+    "text": "Det er en god idé at lukke de mindre skoleafdelinger i f.eks. Frørup og Aunslev, hvor elevtallet har været faldende over en årrække, for at spare penge",
+    "cluster_id": 0,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 861,
+    "text": "Esbjerg kommune skal lave flere store arrangementer, som for eksempel den nye Festival Suset",
+    "cluster_id": 6,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 868,
+    "text": "Esbjerg Kommune skal styrke skoleområdet ved at sikre flere timer med to lærere i klasserne",
+    "cluster_id": 0,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 997,
+    "text": "Kommunen skal invitere til åbne borgermøder, når der skal laves nye solcelle- og vindmølleparker",
+    "cluster_id": 3,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 998,
+    "text": "Haderslev Kommune skal investere i infrastruktur til gavn for det danske forsvar",
+    "cluster_id": 8,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 711,
+    "text": "Nordfyns Kommune skal producere mere grøn energi, end kommunens borgere selv skal bruge",
+    "cluster_id": 3,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 715,
+    "text": "Der skal være en frokostordning for børnene i alle daginstitutioner",
+    "cluster_id": 9,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 877,
+    "text": "Kommunen skal forbedre Monjasa Park (fodboldstadion), så det kommer på samme niveau som andre superligaklubber",
+    "cluster_id": 18,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 879,
+    "text": "Fredericia Kommune skal fortsat støtte Fredericia Teater økonomisk",
+    "cluster_id": 6,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 741,
+    "text": "Der skal anlægges en cykelsti fra Nordlangeland til Sydlangeland",
+    "cluster_id": 2,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 742,
+    "text": "Kommunen skal ansætte en bosætningskonsulent for at tiltrække nye borgere",
+    "cluster_id": 16,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 757,
+    "text": "Det er en god idé at bygge en stor ny daginstitution med plads til op til 180 børn ved Ørsted Skole i Rudkøbing",
+    "cluster_id": 0,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 859,
+    "text": "Kommunen skal gennemføre anlægsprojektet ved Slagterigrunden, hvorder blandt andet skal ligge bibliotek, caféer og virksomheder",
+    "cluster_id": 6,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 753,
+    "text": "Kommunen skal bidrage til fuldførelsen af planerne om en udvidelse af Odense Havn på en million kvadratmeter samt etablering af en bredere sejlrende gennem Odense Fjord",
+    "cluster_id": 8,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 754,
+    "text": "Kommunen skal genoplive planerne om at etablere en sluse i Kerteminde havn for at klimasikre kommunen",
+    "cluster_id": 4,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 755,
+    "text": "Kerteminde Kommune skal give de ældre mere hjemmehjælp, selv om det kan komme til at betyde besparelser på andre områder",
+    "cluster_id": 1,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 678,
+    "text": "Der skal etableres flere parkeringspladser i Egedal Kommune",
+    "cluster_id": 2,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 679,
+    "text": "Politikerne skal forhindre opførelse af moskeer",
+    "cluster_id": 5,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 681,
+    "text": "Egedal Kommune skal fremme opførelsen af flere almene lejeboliger",
+    "cluster_id": 9,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 784,
+    "text": "Kommunalbestyrelsen skal arbejde for, at flytrafikken i Københavns Lufthavn bliver reduceret",
+    "cluster_id": 15,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 787,
+    "text": "Daginstitutioner skal flyttes fra områder med høj luftforurening",
+    "cluster_id": 9,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 793,
+    "text": "Kommunen skal bygge en ny folkeskole i Tårnby Kommune",
+    "cluster_id": 0,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 798,
+    "text": "Vordingborg Kommune skal finde plads til flere solcelleparker og vindmøller på land",
+    "cluster_id": 3,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 799,
+    "text": "Vordingborg Kommune skal bruge flere penge på at sikre kommunens mange kilometer kystlinje mod oversvømmelser",
+    "cluster_id": 14,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 800,
+    "text": "Vordingborg Kommune skal bruge flere penge på at tiltrække turister",
+    "cluster_id": 11,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 779,
+    "text": "Der skal bygges flere boliger i kommunen",
+    "cluster_id": 9,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 780,
+    "text": "Kommunalbestyrelsesmøderne i Vallensbæk skal livestreames på kommunens hjemmeside",
+    "cluster_id": 15,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 785,
+    "text": "Sommerferiens lukkeuger i daginstitutionerne skal afskaffes",
+    "cluster_id": 9,
+    "sentiment": "negativ"
+  },
+  {
+    "id": 948,
+    "text": "Grundejere skal betale hovedparten for kystsikringen ved Strandparken",
+    "cluster_id": 14,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 841,
+    "text": "Stevns Kommune skal finde plads til flere vindmøller og solcelleanlæg",
+    "cluster_id": 3,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 843,
+    "text": "Der skal hellere prioriteres penge til flere ældreboliger og plejehjemspladser end til flere daginstitutioner",
+    "cluster_id": 1,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 777,
+    "text": "Der skal satses mere på vedvarende energikilder ved at få flere vindmøller og solcelleanlæg i kommunen",
+    "cluster_id": 3,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 731,
+    "text": "Odsherred Kommune skal arbejde for et hurtigere stop for muslingeskrab i Isefjorden",
+    "cluster_id": 14,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 732,
+    "text": "Kommunen skal finde plads til både flere solcelleparker og vindmøller på land",
+    "cluster_id": 3,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 740,
+    "text": "Der skal etableres en solcellepark nord for Gadstrup",
+    "cluster_id": 3,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 776,
+    "text": "Der skal lukkes flere små daginstitutioner i kommunen for at tilpasse antallet af pladser til antallet af børn",
+    "cluster_id": 9,
+    "sentiment": "negativ"
+  },
+  {
+    "id": 832,
+    "text": "Der skal være mindre biltrafik i bymidten i Roskilde",
+    "cluster_id": 2,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 834,
+    "text": "Det nye byråd skal garantere, at der ikke kommer flere lukninger eller sammenlægninger i folkeskolen",
+    "cluster_id": 0,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 848,
+    "text": "Slagelse Kommune skal forbedre busforbindelserne mellem by og land, så flere får adgang til kollektiv transport",
+    "cluster_id": 2,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 849,
+    "text": "Ældreområdet i Slagelse Kommune skal fredes, hvis der bliver behov for besparelser i kommunen",
+    "cluster_id": 1,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 719,
+    "text": "Der skal satses mere på vedvarende energikilder ved at få flere vindmøller og solcelleanlæg i kommunen",
+    "cluster_id": 3,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 720,
+    "text": "Der skal etableres flere parkeringspladser uden tidsbegrænsning i Ringsted midtby",
+    "cluster_id": 2,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 721,
+    "text": "Kommunen skal gøre mere for at sikre elevernes trivsel på skolerne",
+    "cluster_id": 0,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 778,
+    "text": "Der skal synges morgensang på alle folkeskoler i kommunen",
+    "cluster_id": 0,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 829,
+    "text": "Rudersdal skal have et kommunalt parkeringskorps, der kan give afgifter til bilister, der holder ulovligt",
+    "cluster_id": 2,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 846,
+    "text": "Der skal etableres en solcellepark i Solrød Kommune",
+    "cluster_id": 3,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 847,
+    "text": "Der skal indføres stop for byggeri af nye boliger",
+    "cluster_id": 4,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 826,
+    "text": "Der skal indføres stop for byggeri af nye boliger",
+    "cluster_id": 4,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 828,
+    "text": "Kommunen skal prioritere at etablere flere plejehjemspladser over andre anlægsprojekter",
+    "cluster_id": 1,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 705,
+    "text": "Kommunen skal prioritere idrætsforeninger og -faciliteter i kommunens mindre byer frem for i Næstved by",
+    "cluster_id": 18,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 706,
+    "text": "Næstved Kommune skal have flere solcelleparker og vindmøller på land",
+    "cluster_id": 3,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 767,
+    "text": "Letbanen er en gevinst for kommunen",
+    "cluster_id": 2,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 768,
+    "text": "Der skal være betalingsparkering i centrum af Lyngby by",
+    "cluster_id": 2,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 775,
+    "text": "Der skal indføres stop for byggeri af nye boliger",
+    "cluster_id": 4,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 769,
+    "text": "Lolland Kommune skal bruge flere penge på at forhindre oversvømmelser i Nakskov by",
+    "cluster_id": 14,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 770,
+    "text": "Lolland Kommune skal have flere solcelleparker",
+    "cluster_id": 3,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 758,
+    "text": "Der skal ikke bygges flere boliger i Lejre frem mod 2030",
+    "cluster_id": 9,
+    "sentiment": "negativ"
+  },
+  {
+    "id": 766,
+    "text": "Brugerbetalingen til SFO og daginstitutioner skal sættes ned, selv hvis det vil betyde besparelser på andre velfærdsområder",
+    "cluster_id": 9,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 774,
+    "text": "Kommunen skal give tilladelse til at oprette en ny friskole på Blæsenborgvej i Lejre by",
+    "cluster_id": 0,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 918,
+    "text": "De penge, kommunen bruger på byudvikling, skal bruges i andre byer end Billund by",
+    "cluster_id": 4,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 920,
+    "text": "Der skal nedlægges plejehjemspladser i kommunen, så det passer til det aktuelle behov",
+    "cluster_id": 1,
+    "sentiment": "negativ"
+  },
+  {
+    "id": 747,
+    "text": "Københavns Kommune skal oprette akutskoler til folkeskoleelever, der har været grænseoverskridende eller voldelige over for klassekammerater eller lærere",
+    "cluster_id": 0,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 748,
+    "text": "Den kommende kunstige halvø Lynetteholm er en vigtig del af udviklingen af København",
+    "cluster_id": 4,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 749,
+    "text": "Det er en god idé at nedlægge parkeringspladser i centrum af København by",
+    "cluster_id": 2,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 739,
+    "text": "Alle kommunens møder med virksomheder skal være åbne og med referat",
+    "cluster_id": 16,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 746,
+    "text": "Kalundborg Kommune skal bruge penge på at gøre Campus Kalundborg mere attraktivt for unge",
+    "cluster_id": 19,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 844,
+    "text": "Kommunalbestyrelsen skal arbejde for at sikre, at der kommer en Kattegatforbindelse",
+    "cluster_id": 15,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 852,
+    "text": "Holbæk Kommune skal arbejde for et hurtigere stop for muslingeskrab i Isefjorden",
+    "cluster_id": 14,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 933,
+    "text": "Kommunens mindre byer skal prioriteres højere, for eksempel gennem øget støtte til skoler og ældre",
+    "cluster_id": 0,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 935,
+    "text": "Planerne for en energipark med både solceller og vindmøller i et naturområde ved Vognserup Gods skal gennemføres",
+    "cluster_id": 3,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 946,
+    "text": "Kommunen skal ansætte tryghedsvagter, der kan gå rundt i bestemte områder og forebygge uro",
+    "cluster_id": 13,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 947,
+    "text": "Kommunen skal droppe førskoleordningen, hvor kommende skolebørn stopper i børnehaven og starter i SFO i foråret",
+    "cluster_id": 0,
+    "sentiment": "negativ"
+  },
+  {
+    "id": 963,
+    "text": "Projektet med stormflodssikring gennem landindvinding i havet syd for Avedøre Holme skal gennemføres",
+    "cluster_id": 14,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 958,
+    "text": "Det er en god idé med en muslimsk gravplads i kommunen",
+    "cluster_id": 5,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 959,
+    "text": "Der skal indføres stop for byggeri af nye boliger",
+    "cluster_id": 4,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 961,
+    "text": "Kommunen skal fortsat stille krav om minimum 10 ugers projektbaseret undervisning i folkeskolerne",
+    "cluster_id": 0,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 743,
+    "text": "Der skal være to timers gratis parkering i Køge midtby",
+    "cluster_id": 2,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 744,
+    "text": "Det er en god idé at etablere ‘Vallø Energipark’ med høje vindmøller i Vallø Storskov",
+    "cluster_id": 3,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 745,
+    "text": "Den kommende statsvej, der skal mindske den stigende biltrafik i Køge, skal placeres nord for Herfølge i Køge og ikke syd for Hårlev i Stevns",
+    "cluster_id": 2,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 954,
+    "text": "Kommunen skal prioritere, at de ældre får gjort rent hver anden frem for hver tredje uge, også hvis det medfører besparelser på andre områder",
+    "cluster_id": 1,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 956,
+    "text": "Der skal bygges flere boliger for at tiltrække nye borgere til Hørsholm",
+    "cluster_id": 9,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 949,
+    "text": "Der skal ansættes flere medarbejdere på plejehjemmene, også hvis det sker på bekostning af andre områder",
+    "cluster_id": 1,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 950,
+    "text": "Det er en god idé at prioritere, at kommunens nye stadionfaciliteter ved idrætscenteret kan leve op til kravene for 1. divisionsfodbold",
+    "cluster_id": 18,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 951,
+    "text": "Det er en god idé med en muslimsk gravplads i kommunen",
+    "cluster_id": 5,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 854,
+    "text": "Kommunen skal hyre ekstern hjælp til at forbedre arbejdsmiljøet på rådhuset",
+    "cluster_id": 14,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 855,
+    "text": "Fanø skal have plads til flere turister og derfor skal der i lokalplaner give plads til turisme-byggeri",
+    "cluster_id": 4,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 983,
+    "text": "Kommunen skal bevare førskoleordningen, hvor kommende skolebørn stopper i børnehaven og starter i SFO i foråret",
+    "cluster_id": 0,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 986,
+    "text": "Der skal indføres stop for byggeri af nye boliger",
+    "cluster_id": 4,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 993,
+    "text": "Det er en god idé at yde økonomisk støtte til filmprojekter med optagelser i Halsnæs",
+    "cluster_id": 6,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 994,
+    "text": "Det er en god idé at bygge et strandhotel på Hundested Havn",
+    "cluster_id": 11,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 995,
+    "text": "Alle folkeskoler i Halsnæs skal have deres egen forebyggelsesrådgiver, der kan hjælpe børn og unge med deres problemer",
+    "cluster_id": 0,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 940,
+    "text": "Byudviklingen i Favrholm skal fortsat prioriteres højt",
+    "cluster_id": 4,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 942,
+    "text": "Der skal være færre medlemmer af byrådet end de nuværende 27",
+    "cluster_id": 15,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 999,
+    "text": "Guldborgsund Kommune skal være bedre til at give individuel støtte tilunge med psykiske lidelser, så de kan komme i job eller uddannelse",
+    "cluster_id": 0,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 1000,
+    "text": "Kommunen skal sikre sommerhusområder mod oversvømmelser",
+    "cluster_id": 9,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 987,
+    "text": "Kommunen skal bruge penge på at få store sportsarrangementer til Helsingør",
+    "cluster_id": 18,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 989,
+    "text": "Kommunen skal fortsat have regler for, hvor sent unge under 18 år må opholde sig i nattelivet, hvor der udskænkes alkohol",
+    "cluster_id": 19,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 984,
+    "text": "Strandfodringen - påfyldning af sand - er den rigtige løsning i kystsikringsprojektet ‘Nordkystens Fremtid’",
+    "cluster_id": 14,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 985,
+    "text": "Kommunen skal føre mere kontrol med den jord, der bliver læsset af i Gribskov",
+    "cluster_id": 13,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 1001,
+    "text": "Byrådet skal modarbejde, at der bliver sat elge ud i naturnationalparken i Gribskov",
+    "cluster_id": 14,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 976,
+    "text": "Kommunalbestyrelsen skal genindføre kravet om en times bevægelse i folkeskolerne",
+    "cluster_id": 0,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 967,
+    "text": "Det er en god idé med tryghedsvagter, der patruljerer i Greve for at forebygge uro og bidrage til øget tryghed",
+    "cluster_id": 13,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 968,
+    "text": "Det er en god idé, at et EU-statsborgerskab er afgørende for, om man må flytte ind i boligområdet Askerød",
+    "cluster_id": 4,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 971,
+    "text": "Kommunen skal give økonomisk tilskud til forældre, der passer egne børn hjemme",
+    "cluster_id": 1,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 972,
+    "text": "Kommunen skal droppe førskoleordningen, hvor kommende skolebørn stopper i børnehaven og starter i SFO i foråret",
+    "cluster_id": 0,
+    "sentiment": "negativ"
+  },
+  {
+    "id": 973,
+    "text": "Der skal indføres stop for byggeri af nye boliger",
+    "cluster_id": 4,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 969,
+    "text": "Der skal indføres stop for byggeri af nye boliger",
+    "cluster_id": 4,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 927,
+    "text": "Kommunen skal have tryghedsvagter, der skal hjælpe politiet med at opretholde ro og orden - blandt andet ved Frederikssund Station efter mørkets frembrud",
+    "cluster_id": 13,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 928,
+    "text": "Byudviklingen i Vinge skal fortsat prioriteres højt",
+    "cluster_id": 4,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 981,
+    "text": "Kommunen skal støtte kystbeskyttelsesprojekter økonomisk, selv hvis det betyder besparelser på andre områder",
+    "cluster_id": 10,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 874,
+    "text": "Valgfaget 'Privatøkonomi' skal udbydes i de ældste klasser på alle skoler",
+    "cluster_id": 0,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 875,
+    "text": "Der skal indføres stop for byggeri af nye boliger",
+    "cluster_id": 4,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 876,
+    "text": "Frederiksberg skal genindføre de to timers gratis parkering",
+    "cluster_id": 2,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 871,
+    "text": "Faxe Kommune skal prioritere at forbedre sagsbehandlingen for udsatte børn og unge",
+    "cluster_id": 17,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 886,
+    "text": "Faxe Kommune skal have flere solcelleparker",
+    "cluster_id": 3,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 863,
+    "text": "Kommunen skal oprette flere 0. klasser på skoler, hvor der er for mange børn per klasse",
+    "cluster_id": 0,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 864,
+    "text": "Der skal indføres stop for byggeri af nye boliger",
+    "cluster_id": 4,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 865,
+    "text": "Kommunen skal hyre ekstern hjælp til at forbedre arbejdsmiljøet i byrådet",
+    "cluster_id": 14,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 866,
+    "text": "Et borgerforslag skal have underskrifter fra 200 borgere i stedet for 400, før det skal behandles i byrådet i Egedal",
+    "cluster_id": 15,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 881,
+    "text": "Der skal være færre medlemmer af byrådet end de nuværende 27",
+    "cluster_id": 15,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 882,
+    "text": "Byrådet skal arbejde for, at der bliver lavet en omfartsvej i form af en forlængelse af Overdrevsvej til det sydøstlige Fredensborg",
+    "cluster_id": 8,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 884,
+    "text": "Der skal indføres stop for byggeri af nye boliger",
+    "cluster_id": 4,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 914,
+    "text": "Der skal indføres stop for byggeri af nye boliger",
+    "cluster_id": 4,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 915,
+    "text": "Skolerne på Bornholm skal friholdes fra besparelser, selv hvis det kan føre til besparelser på andre velfærdsområder",
+    "cluster_id": 0,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 916,
+    "text": "Færgen til/fra Bornholm skal være CO2-neutral, selv hvis billetten bliver dyrere",
+    "cluster_id": 2,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 917,
+    "text": "Kommunen skal støtte Bornholms kommunale busselskab BAT mere økonomisk, så det bliver attraktivt for borgerne at køre med bus",
+    "cluster_id": 2,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 900,
+    "text": "Kommunen skal bevare alle de små skoler",
+    "cluster_id": 0,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 901,
+    "text": "Kommunen skal sikre en hurtigere sagsbehandling af bygge- og miljøsager",
+    "cluster_id": 14,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 921,
+    "text": "Der skal indføres stop for byggeri af nye boliger",
+    "cluster_id": 4,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 922,
+    "text": "Kommunen skal fortsætte med at føre kontrol med ulovlig helårsbeboelse i kolonihaverne",
+    "cluster_id": 13,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 923,
+    "text": "Der skal fortsat være totalt rygeforbud på kommunens udendørs idrætsfaciliteter",
+    "cluster_id": 13,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 804,
+    "text": "Nye energiparker ved Svoldrup Kær og Nørrekær Enge skal være så små som muligt",
+    "cluster_id": 3,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 805,
+    "text": "Det er en god idé at lukke skoler med mindre end 75 elever for at spare penge",
+    "cluster_id": 0,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 889,
+    "text": "Kystsikring i kommunen skal betales af alle gennem skatten",
+    "cluster_id": 10,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 892,
+    "text": "Byrådsmøderne i Allerød skal livestreames på kommunens hjemmeside",
+    "cluster_id": 15,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 725,
+    "text": "Der skal opføres flere solceller eller vindmøller i kommunen",
+    "cluster_id": 3,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 735,
+    "text": "Der skal bygges flere daginstitutioner",
+    "cluster_id": 9,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 738,
+    "text": "Morsø Kommune skal lave flere energizoner til opstilling af vindmøller og solceller end de to, der allerede er planlagt",
+    "cluster_id": 3,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 756,
+    "text": "Morsø Kommune skal skære ned på støtten til Kulturmødet på Mors",
+    "cluster_id": 6,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 788,
+    "text": "Thisted Kommune skal hæve den nuværende grænse på 75 elever for, hvornår en skole skal lukkes",
+    "cluster_id": 0,
+    "sentiment": "negativ"
+  },
+  {
+    "id": 789,
+    "text": "Thisted Kommune skal godkende flere vindmølle- og solcelleprojekter på land",
+    "cluster_id": 3,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 790,
+    "text": "Byrådet skal prioritere pengene til udvikling af Thisted by fremfor landdistrikterne",
+    "cluster_id": 15,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 761,
+    "text": "Kommunen skal genindføre tilskud til hjemmepasning",
+    "cluster_id": 10,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 762,
+    "text": "Kommunens tilladelse til at opføre et højhus på Jernbanegade i Hobro skal trækkes tilbage",
+    "cluster_id": 4,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 763,
+    "text": "Kommunen skal bakke op om opførelsen af et stort biogasanlæg nær Hobro",
+    "cluster_id": 3,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 936,
+    "text": "Der skal inddrages mere landbrugsjord til grønne energiprojekter som f.eks. vindmøller og solcelleparker",
+    "cluster_id": 3,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 937,
+    "text": "Kommunens plejehjemsbeboere skal samles i færre og større ældrecentre i Hjørring, Hirtshals, Sindal, Tårs, Vrå og Løkken",
+    "cluster_id": 1,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 938,
+    "text": "Det kan blive nødvendigt at lukke folkeskoler med under 100 elever",
+    "cluster_id": 0,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 851,
+    "text": "Hjemmeplejen skal bruge mere tid hjemme hos den enkelte borger, selvom det bliver dyrere",
+    "cluster_id": 1,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 853,
+    "text": "Folkeskoler med under 70 elever skal lukkes for at spare penge",
+    "cluster_id": 0,
+    "sentiment": "negativ"
+  },
+  {
+    "id": 964,
+    "text": "Der skal være en frokostordning for børnene i alle daginstitutioner",
+    "cluster_id": 9,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 872,
+    "text": "Der skal skæres i den ordning, der giver ældre mulighed for at tilvælge ekstra hjælp - også kaldet klippekortordningen - for at spare penge",
+    "cluster_id": 1,
+    "sentiment": "negativ"
+  },
+  {
+    "id": 873,
+    "text": "Der skal lukkes folkeskoler, når elevtallet er for lavt",
+    "cluster_id": 0,
+    "sentiment": "negativ"
+  },
+  {
+    "id": 907,
+    "text": "Der skal etableres flere energiparker med sol- eller vindenergi",
+    "cluster_id": 3,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 890,
+    "text": "Der skal opføres flere vindmøller og solceller i Brønderslev Kommune",
+    "cluster_id": 3,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 910,
+    "text": "Kommunen skal tilbyde tilskud til hjemmepasning",
+    "cluster_id": 10,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 911,
+    "text": "Asaa Skole skal lukkes",
+    "cluster_id": 0,
+    "sentiment": "negativ"
+  },
+  {
+    "id": 896,
+    "text": "Byrådets midlertidige stop for udvidelsen af Aarhus Havn skal gøres permanent",
+    "cluster_id": 15,
+    "sentiment": "negativ"
+  },
+  {
+    "id": 897,
+    "text": "Biltrafikken i Aarhus midtby skal begrænses, for eksempel gennem ensretninger, hastighedsnedsættelser og en nul-emissionszone",
+    "cluster_id": 2,
+    "sentiment": "negativ"
+  },
+  {
+    "id": 898,
+    "text": "Kommunen skal fortsætte med planerne for det nye fodboldstadion i Kongelunden, selv hvis omkostningerne stiger igen",
+    "cluster_id": 18,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 899,
+    "text": "Der skal stilles vindmøller op på industrihavnen i Aarhus",
+    "cluster_id": 3,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 801,
+    "text": "Viborg Kommune skal fortsætte med etableringen af planlagte vedvarende energiparker",
+    "cluster_id": 3,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 802,
+    "text": "Viborg Kommune skal bygge et særligt botilbud til voksne med handicap og udadreagerende adfærd",
+    "cluster_id": 7,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 831,
+    "text": "Skive Kommune skal hæve grænsen for, hvor få elever der må være på en folkeskole, før den lukkes. Den nuværende grænse er 45 elever",
+    "cluster_id": 0,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 833,
+    "text": "Der skal bygges flere vedvarende energiparker med solceller eller vindmøller i Skive Kommune",
+    "cluster_id": 3,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 850,
+    "text": "Den ordning for ældre (klippekortordningen), der giver mulighed for at tilvælge ekstra hjælp, skal beskæres, hvis det styrker andre velfærdsområder",
+    "cluster_id": 1,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 814,
+    "text": "Der skal bygges flere sommerhuse langs kommunens kyster",
+    "cluster_id": 9,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 815,
+    "text": "Der skal stilles flere solceller og vindmøller op på marker i kommunen",
+    "cluster_id": 3,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 835,
+    "text": "Kommunens ældre skal fremover kunne komme på privatejede plejehjem, såkaldte friplejehjem, flere steder, end det ene der allerede er lokalplan for i Egsmark ved Ebeltoft",
+    "cluster_id": 1,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 839,
+    "text": "Det er en god idé, at kommunen lukker en af kommunens mindre skoler for at spare penge",
+    "cluster_id": 0,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 817,
+    "text": "Der skal opføres flere solcelleparker og vindmøller i Skanderborg Kommune",
+    "cluster_id": 3,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 819,
+    "text": "Borgere i Silkeborg Kommune med bolig ned til søer og åer må selv sikre sig mod oversvømmelser",
+    "cluster_id": 9,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 820,
+    "text": "Det er en god idé, at der bygges flere højhuse i Silkeborg",
+    "cluster_id": 4,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 821,
+    "text": "Kommunen skal prioritere udvikling i de mindre byer, herunder skoler og foreningsliv, frem for i Silkeborg by",
+    "cluster_id": 0,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 822,
+    "text": "Kommunen skal fortsat bruge penge på at få store events til byen såsom Postnord Danmark Rundt",
+    "cluster_id": 6,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 823,
+    "text": "Kommunen skal sikre, at hurtigfærgen Lilleøre fortsat sejler mellem Samsø og Aarhus, selv hvis det er omkostningsfuldt for kommunen",
+    "cluster_id": 2,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 824,
+    "text": "Samsø Kommune skal bygge flere lejeboliger på øen",
+    "cluster_id": 9,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 825,
+    "text": "Samsø skal have flere energiprojekter som solcelleparker og landvindmøller",
+    "cluster_id": 3,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 722,
+    "text": "Det skal være en prioritet for kommunen, at mindst et af feriebyprojekterne i Ringkøbing – Raunonia eller Fjordstaden – bliver til virkelighed",
+    "cluster_id": 11,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 723,
+    "text": "Der skal bygges flere solceller og vindmøller på land",
+    "cluster_id": 3,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 724,
+    "text": "Kommunen skal hæve grænsen for, hvornår en skole skal lukkes på grund af for få elever. Den nuværende grænse er på 60 elever",
+    "cluster_id": 0,
+    "sentiment": "negativ"
+  },
+  {
+    "id": 728,
+    "text": "Der skal bruges flere penge på at vedligeholde kommunens bygninger, for eksempel rådhus, skoler og daginstitutioner",
+    "cluster_id": 0,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 729,
+    "text": "Planerne om klimabroen skal droppes til fordel for en Østbro",
+    "cluster_id": 14,
+    "sentiment": "negativ"
+  },
+  {
+    "id": 730,
+    "text": "Det er en god idé, at der bygges flere højhuse i Randers",
+    "cluster_id": 4,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 704,
+    "text": "Kommunen skal betale for at genoprette de busruter, Region Midtjylland har nedlagt, som fx mellem Grenå og Randers",
+    "cluster_id": 2,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 771,
+    "text": "Lemvig Kommune skal give tilladelse til flere vedvarende energiprojekter på land",
+    "cluster_id": 3,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 772,
+    "text": "Lemvig Kommune skal lukke mindst en folkeskole for at spare penge",
+    "cluster_id": 0,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 773,
+    "text": "Lemvig Kommune skal spare på udgifterne til idrætshaller og svømmehaller",
+    "cluster_id": 18,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 952,
+    "text": "Ikast-Brande skal prioritere byudvikling i Ikast by frem for i resten af kommunens byer",
+    "cluster_id": 4,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 953,
+    "text": "Ikast-Brande Kommune skal godkende et biogasanlæg nord for Ikast",
+    "cluster_id": 3,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 713,
+    "text": "Der skal udstykkes flere byggegrunde i de små byer som for eksempel i Assendrup",
+    "cluster_id": 4,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 716,
+    "text": "Kommunen skal bidrage til den grønne omstilling ved at tillade energiparker som for eksempel solcelleanlæg og biogasanlæg ved Torrild",
+    "cluster_id": 3,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 726,
+    "text": "Det er en god idé at kommunen investerer i at gøre kommunens naturområder attraktive for flere turister, som ved Saksild Strand hvor der er planer om at bygge feriehytter ved det gamle badehotel",
+    "cluster_id": 11,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 931,
+    "text": "Holstebro Kommune skal sikre en højere kvalitet på skoleområdet, selv hvis det medfører besparelser på andre områder",
+    "cluster_id": 0,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 932,
+    "text": "Pasningsgarantien skal gøres lokal, så et barn er sikret en plads i institutionen tættest på dets bopæl",
+    "cluster_id": 12,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 781,
+    "text": "Tønder kommune skal fortsat finde plads til nye solcelleparker og vindmøller",
+    "cluster_id": 3,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 783,
+    "text": "Der skal være flere overnatningsmuligheder for turister på Rømø",
+    "cluster_id": 11,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 943,
+    "text": "Herning Kommune skal lave flere sammenlægninger af kommunale folkeskoler",
+    "cluster_id": 0,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 945,
+    "text": "Herning Kommune skal arbejde for at skaffe flere store kulturbegivenheder til kommunen",
+    "cluster_id": 6,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 965,
+    "text": "Socialområdet skal friholdes for besparelser, selv hvis det betyder besparelser på andre områder",
+    "cluster_id": 17,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 929,
+    "text": "Horsens skal bruge flere penge på kulturarrangementer",
+    "cluster_id": 6,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 930,
+    "text": "Byrådet skal sikre flere og bedre cykelstier i hele Horsens Kommune, før de prioriterer bedre plads på vejene til bilisterne",
+    "cluster_id": 2,
+    "sentiment": "positiv"
+  },
+  {
+    "id": 944,
+    "text": "Horsens skal bygge flere plejehjemsboliger for at undgå den forventede mangel på pladser i fremtiden",
+    "cluster_id": 1,
+    "sentiment": "positiv"
+  }
+]

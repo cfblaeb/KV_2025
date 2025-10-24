@@ -1,2 +1,3 @@
-# KV_2025
-Kommunal valg 2025
+# Kommunalvalg 2025
+
+### Kommunal boogaloo : Here we KOM again? \<buuuh>

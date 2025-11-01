@@ -1,0 +1,121 @@
+[{
+        "id": "tv2-kv25-danmark-1",
+        "type": "rate",
+        "header": "Trafik",
+        "question": "Flere af kommunens eksisterende p-pladser skal kun kunne bruges af el-biler"
+    },
+    {
+        "id": "tv2-kv25-danmark-2",
+        "type": "rate",
+        "header": "Trafik",
+        "question": "Kommunen bør bruge flere penge på at forbedre forholdene for fodgængere og cyklister end på at forbedre forholdene for bilister"
+    },
+    {
+        "id": "tv2-kv25-danmark-3",
+        "type": "rate",
+        "header": "Miljø og klima",
+        "question": "Kommunen skal nedbringe sit CO2-udslip yderligere, selvom det kan gøre det dyrere at bo i kommunen"
+    },
+    {
+        "id": "tv2-kv25-danmark-4",
+        "type": "rate",
+        "header": "Miljø og klima",
+        "question": "Det er vigtigere at beskytte kommunens grønne områder end at give tilladelse til nyt byggeri, for eksempel erhvervs-, boligbyggerier eller idrætsfaciliteter"
+    },
+    {
+        "id": "tv2-kv25-danmark-5",
+        "type": "rate",
+        "header": "Kultur, idræt og fritid",
+        "question": "Der skal være flere kultur- og sportstilbud til børn og unge, også selvom det kræver besparelser på andre kommunale områder"
+    },
+    {
+        "id": "tv2-kv25-danmark-6",
+        "type": "rate",
+        "header": "Kultur, idræt og fritid",
+        "question": "Kommunen bruger for mange penge på kunst og kultur"
+    },
+    {
+        "id": "tv2-kv25-danmark-7",
+        "type": "rate",
+        "header": "Social- og integrationsområdet",
+        "question": "Kommunen skal gøre en større indsats for at tiltrække udenlandsk arbejdskraft til ubesatte stillinger – uanset hvilket land arbejdskraften kommer fra"
+    },
+    {
+        "id": "tv2-kv25-danmark-8",
+        "type": "rate",
+        "header": "Social- og integrationsområdet",
+        "question": "Kommunen bruger for mange penge på socialt udsatte borgere"
+    },
+    {
+        "id": "tv2-kv25-danmark-9",
+        "type": "rate",
+        "header": "Ældre",
+        "question": "Kommunens ældrepleje fungerer generelt set godt"
+    },
+    {
+        "id": "tv2-kv25-danmark-10",
+        "type": "rate",
+        "header": "Ældre",
+        "question": "Det er muligt at levere en betydeligt bedre ældrepleje uden at bruge flere penge"
+    },
+    {
+        "id": "tv2-kv25-danmark-11",
+        "type": "rate",
+        "header": "Sundhed",
+        "question": "Der skal tilbydes gratis madordninger i kommunens skoler og daginstitutioner – også selvom det betyder besparelser på andre områder"
+    },
+    {
+        "id": "tv2-kv25-danmark-12",
+        "type": "rate",
+        "header": "Sundhed",
+        "question": "Der bør indføres flere røgfri zoner på udendørs kommunale arealer"
+    },
+    {
+        "id": "tv2-kv25-danmark-13",
+        "type": "rate",
+        "header": "Skole/dagtilbud for børn",
+        "question": "Åbningstiderne i kommunens vuggestuer og børnehaver skal udvides, selvom det betyder besparelser på andre områder"
+    },
+    {
+        "id": "tv2-kv25-danmark-14",
+        "type": "rate",
+        "header": "Skole/dagtilbud for børn",
+        "question": "Antallet af elever i kommunens folkeskoleklasser skal nedbringes, også selvom det betyder besparelser på andre kommunale områder"
+    },
+    {
+        "id": "tv2-kv25-danmark-15",
+        "type": "rate",
+        "header": "Erhverv/administration",
+        "question": "Kommunen bør prioritere flere ressourcer på at tiltrække private arbejdspladser"
+    },
+    {
+        "id": "tv2-kv25-danmark-16",
+        "type": "rate",
+        "header": "Erhverv/administration",
+        "question": "Der bør være færre kommunalt ansatte i min kommune"
+    },
+    {
+        "id": "tv2-kv25-danmark-17",
+        "type": "rate",
+        "header": "Skat",
+        "question": "Kommuneskatten bør sættes ned"
+    },
+    {
+        "id": "tv2-kv25-danmark-18",
+        "type": "rate",
+        "header": "Skat",
+        "question": "Jeg synes alt i alt, at de penge, jeg betaler i kommuneskat, bliver brugt fornuftigt"
+    },
+    {
+        "id": "tv2-kv25-danmark-19",
+        "type": "rate",
+        "header": "Beredskab og sikkerhed",
+        "question": "I tilfælde af ekstraordinære vejrfænomener (storme, oversvømmelser med videre) er jeg tryg ved, at kommunen kan sikre borgere og bygninger"
+    },
+    {
+        "id": "tv2-kv25-danmark-20",
+        "type": "rate",
+        "header": "Beredskab og sikkerhed",
+        "question": "Der skal afsættes midler til at bygge flere beskyttelsesrum – også selvom det betyder færre penge til andre kommunale opgaver"
+    }
+]

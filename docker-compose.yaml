@@ -1,9 +1,9 @@
-name: valg
+name: kv2025-dashboard
 
 services:
   dashboard:
     build: .
     restart: always
     ports:
-      - "127.0.0.1:9331:8000"
+      - "127.0.0.1:9333:8000"
     command: bash -c "gunicorn -b 0.0.0.0:8000 --workers=5 --threads=1 server:server"

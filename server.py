@@ -89,7 +89,7 @@ def confidence_ellipse(xs, ys, n_std=1.96, size=100):
 app = Dash(
 	title="Kommunalvalg 2025 - DumData analyse",
 	external_stylesheets=[dbc.themes.SOLAR, dbc.icons.BOOTSTRAP],
-	meta_tags=[{"name": "viewport", "content": "initial-scale=1"}, ],
+	meta_tags=[{"name": "viewport", "content": "width=1000, initial-scale=1"}, ],
 )
 server = app.server
 
@@ -114,8 +114,10 @@ app.layout = dbc.Container([
 			], body=True)
 		],
 	),
-
-	dbc.Card(dcc.Graph(id='viz')),
+	dbc.Card(
+        dcc.Graph(id='viz', style={"minWidth": "1000px"}),
+        className = "p-2",
+    ),
 	dbc.Card(html.P("(her kommer forudsigelser om hvilket parti en 'klikket' politiker burde være i)", id="svar_res")),
 	dbc.Card([
 		dcc.Markdown('''
@@ -131,7 +133,9 @@ app.layout = dbc.Container([
 			]) for spg in dk_spg_columns
 		], flush=True)
 	], body=True)
-	, ],  # fluid=True
+	, ],
+    fluid=True,
+    className="p-0"
 )
 
 

@@ -21,26 +21,26 @@ df['sized'] = 5
 tv2_sprg = pd.read_json('TV2/tv2_sprg.json').set_index('id')['question']
 #dr_sprgs = pd.read_json('dr1_sprg.json')
 dr_sprgs = pd.Series({
-    "DR0": "Uddannelse og skoler",
-    "DR1": "Ældrepleje og seniorservice",
-    "DR2": "Transport og mobilitet",
-    "DR3": "Grøn energi og klima",
-    "DR4": "Byudvikling og byggeri",
-    "DR5": "Religion og kulturel integration",
-    "DR6": "Kultur og fritid",
-    "DR7": "Sundhed og hospitaler",
-    "DR8": "Infrastruktur og anlægsprojekter",
-    "DR9": "Boliger og daginstitutioner",
-    "DR10": "Skatter og brugerbetaling",
-    "DR11": "Turisme og ferieområder",
-    "DR12": "Børnepasning og førskole",
-    "DR13": "Tryghed og sikkerhed",
-    "DR14": "Miljø og naturbeskyttelse",
-    "DR15": "Politik og kommunal styring",
-    "DR16": "Erhverv og virksomheder",
-    "DR17": "Social velfærd og udsatte grupper",
-    "DR18": "Sport og idrætsfaciliteter",
-    "DR19": "Børn og unge trivsel"
+    "DR0": "Flere penge til uddannelse, skoler og børnehaver",
+    "DR1": "Mere privatisering",
+    "DR2": "Tage hensyn og bruge flere penge på sociale mindretal",
+    "DR3": "Tage hensyn og bruge flere penge på religiøse mindretal",
+    "DR4": "Bedre forhold for privat trafik ",
+    "DR5": "Der skal generelt bruges flere penge på velfærd",
+    "DR6": "Erhverslivet skal hjælpes",
+    "DR7": "Flere grønne tiltag",
+    "DR8": "Mere brugerbetaling",
+    "DR9": "Mere fokus på integration",
+    "DR10": "Flere boliger og lejeboliger",
+    "DR11": "Flere penge på idræt og kultur",
+    "DR12": "Flere penge til små samfund/landsbyer/skoler",
+    "DR13": "Mere offentligt indblik i kommunens aktiviteter",
+    "DR14": "Kommunen skal gøre mere for at sikre borgerne mod klimaforandringerne",
+    "DR15": "Flere penge til de ældre",
+    "DR16": "Der skal satses mere på turisme",
+    "DR17": "Bedre offentlig transport",
+    "DR18": "Prioriter natur over erhverv",
+    "DR19": "Mere politi og kontrol med at regler overholdes",
 })
 
 # liste over columns med spørgsmål
@@ -154,8 +154,11 @@ def update_graph(valgkreds_filter, shadow, farveblind, data):
     else:
         f1 = px.scatter(
             a, x='X', y='y', color='parti', color_discrete_map=color_dict, hover_data=['navn', 'job', 'alder'],
-            custom_data=['index'], template="plotly_dark", labels={"X": "Hjalmesans", "y": "Fluplighed"},
+            custom_data=['index'], template="plotly_dark", labels={"X": "Hjalmesans", "y": "Fluplighed"}
         )
+        if 'alle' in valgkreds_filter:
+            f1.update_traces(marker=dict(size=3))
+
 
     f1.layout.xaxis.fixedrange = True
     f1.layout.yaxis.fixedrange = True

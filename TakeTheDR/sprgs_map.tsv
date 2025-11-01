@@ -1,258 +1,318 @@
-_ - _ - id	_ - _ - text	_ - _ - cluster_id	_ - _ - sentiment
-650	Flere opgaver i den offentlige sektor skal fremover løses af private virksomheder	16	positiv
-651	Offentlige institutioner tager for mange hensyn til religiøse minoriteter, for eksempel ved at tilbyde måltider uden svinekød	5	positiv
-652	Investering i vejnettet haster mere end investering i kollektiv trafik	8	positiv
-654	Det er muligt at spare penge i den offentlige sektor, uden at det går ud over den offentlige velfærd	17	positiv
-656	Kommuneskatten i Lemvig Kommune skal sættes op og pengene skal bruges på bedre velfærd	10	positiv
-664	Lemvig Kommune skal gøre det billigere at drive virksomhed	16	positiv
-666	Der skal opsættes flere anlæg til vedvarende energi som vindmøller og solceller i Lemvig Kommune	3	positiv
-667	Lemvig Kommune skal sikre frokostordning i folkeskolen, selv om det kan tage penge fra andre opgaver	skole og børn	positiv
-672	Ældre skal kunne tilkøbe ekstra service på de kommunale plejehjem	1	positiv
-675	Lemvig Kommune skal prioritere, at skoleelever bliver blandet efter etnicitet og social baggrund – også selv om det kan gå ud over forældrenes fri skolevalg	integration	positiv
-676	Der skal indføres højere brugerbetaling på kultur- og fritidstilbud som teatre, ungdomsklubber og biblioteksarrangementer	6	positiv
-688	Det skal være lettere at få byggetilladelse i Ikast-Brande Kommune	4	positiv
-690	Ikast-Brande Kommune skal investere mere i offentlig transport mellem kommunens byer	2	positiv
-908	Det er vigtigere at reparere eksisterende veje end at sætte gang i nye anlægsprojekter	8	positiv
-924	Det er en god ide at etablere en solcellepark ved Dærup	3	positiv
-925	Assens Kommune skal skabe flere buslinjer i kommunens yderområder	2	positiv
-810	Vejen Kommune skal etablere flere tilbud i kommunen til udsatte børn og unge	17	positiv
-811	Kommunen skal bruge flere penge på at styrke skoleområdet	skole og børn	positiv
-990	Kommunen skal lukke folkeskoler med færre end 100 elever for at spare penge	skole og børn	negativ
-991	Den kollektive trafik skal styrkes med flere busafgange	2	positiv
-992	Der skal bygges et kulturhus i Hedensted	6	positiv
-860	Favrskov skal etablere solcelleanlæg, vindmølleparker og biogasanlæg som det planlagte solcelleanlæg ved Hadsten-Nr. Galten	3	positiv
-869	Politikerne skal sikre byudvikling i den vestlige del af Favrskov Kommune – for eksempel i form af byggegrunde og andre anlægsprojekter	4	positiv
-870	Favrskov Kommune skal bygge en idrætshal i forbindelse med det kommende skolebyggeri i Foldby-Norring	kultur og idræt	positiv
-691	Der må gerne bygges flere højhuse i min kommune	4	positiv
-692	Der skal investeres mere i kulturlivet i Silkeborg Kommune	6	positiv
-693	Det skal være lettere at få byggetilladelse i Silkeborg Kommune	4	positiv
-808	Kommunens nuværende indsats og igangværende planer mod oversvømmelser i Vejle er tilstrækkelige	14	positiv
-809	Der skal etableres en havnetunnel i Vejle by for at aflaste trafikken	2	positiv
-682	Der skal investeres mere i kulturlivet i Lemvig Kommune	6	positiv
-683	Det skal være lettere at få byggetilladelse i Lemvig Kommune	4	positiv
-685	Natur er vigtigere end byggeri af nye sommerhuse	4	positiv
-686	Lemvig Kommune skal investere mere i offentlig transport mellem kommunens byer	2	positiv
-903	Nørreport i Aabenraa skal bevares som et grønt område med plads til børn og bænke	19	positiv
-904	Der skal opsættes flere solceller og vindmøller i Aabenraa Kommune	3	positiv
-797	Ærø skal indføre forbud mod at bruge sprøjtegifte på hele øen	14	positiv
-934	Kommunen skal indkøbe nye elfærger til Ærø	2	positiv
-1002	Der skal bygges en ny daginstitution i Ærøskøbing	9	positiv
-794	Varde kommune skal finde plads til nye solcelleparker og vindmøller	3	positiv
-796	Kommunen skal arbejde for at få flere turister til kommunens ferieområder	11	positiv
-792	Der skal gøres mere for at udvikle kommunens mindre byer med begivenheder, grønne oaser og nye erhvervstiltag	16	positiv
-698	Der bliver bygget for mange højhuse	4	positiv
-702	Politikerne skal forhindre opførelse af moskeer	5	positiv
-703	Der skal etableres flere parkeringspladser i Aalborg Kommune	2	positiv
-717	Letbanens etape 2 til Vollsmose og Seden fra centrum af Odense skal etableres	2	positiv
-718	Det er en god idé at etablere et nyt stort erhvervsområde ved Blommenslyst i Odense V	16	positiv
-750	Planerne om opførelsen af Marina City - et større samlet boligområde ved havnen og ny lystbådehavn - skal føres ud i livet, selv om de samlede omkostninger er usikre	4	positiv
-751	Der skal bygges boliger langs åen i Kolding midtby, blandt andet hvor der lige nu er parkeringspladser	2	positiv
-752	Kommunen skal gøre mere for at sikre elevernes trivsel på skolerne	skole og børn	positiv
-836	Svendborg Kommune skal igen have to tankbiler i beredskabet og ikke kun en til fx brandslukning	13	positiv
-838	Det er en god idé at udvikle Svendborg Havn med boliger, hotel og erhverv	9	positiv
-737	Det er en god idé, at kommunen er med til at finansiere det årlige klimafolkemøde	14	positiv
-759	Middelfart Kommune skal droppe førskoleordningen, hvor kommende skolebørn stopper i børnehaven og starter i SFO i foråret	skole og børn	positiv
-707	Nyborg Kommune skal servere mere vegetarisk mad og mindre kød på kommunens plejehjem	1	positiv
-709	Det er en god idé at lukke de mindre skoleafdelinger i f.eks. Frørup og Aunslev, hvor elevtallet har været faldende over en årrække, for at spare penge	skole og børn	negativ
-861	Esbjerg kommune skal lave flere store arrangementer, som for eksempel den nye Festival Suset	6	positiv
-868	Esbjerg Kommune skal styrke skoleområdet ved at sikre flere timer med to lærere i klasserne	skole og børn	positiv
-997	Kommunen skal invitere til åbne borgermøder, når der skal laves nye solcelle- og vindmølleparker	3	positiv
-998	Haderslev Kommune skal investere i infrastruktur til gavn for det danske forsvar	8	positiv
-711	Nordfyns Kommune skal producere mere grøn energi, end kommunens borgere selv skal bruge	3	positiv
-715	Der skal være en frokostordning for børnene i alle daginstitutioner	9	positiv
-877	Kommunen skal forbedre Monjasa Park (fodboldstadion), så det kommer på samme niveau som andre superligaklubber	18	positiv
-879	Fredericia Kommune skal fortsat støtte Fredericia Teater økonomisk	6	positiv
-741	Der skal anlægges en cykelsti fra Nordlangeland til Sydlangeland	2	positiv
-742	Kommunen skal ansætte en bosætningskonsulent for at tiltrække nye borgere	16	positiv
-757	Det er en god idé at bygge en stor ny daginstitution med plads til op til 180 børn ved Ørsted Skole i Rudkøbing	skole og børn	positiv
-859	Kommunen skal gennemføre anlægsprojektet ved Slagterigrunden, hvorder blandt andet skal ligge bibliotek, caféer og virksomheder	6	positiv
-753	Kommunen skal bidrage til fuldførelsen af planerne om en udvidelse af Odense Havn på en million kvadratmeter samt etablering af en bredere sejlrende gennem Odense Fjord	8	positiv
-754	Kommunen skal genoplive planerne om at etablere en sluse i Kerteminde havn for at klimasikre kommunen	4	positiv
-755	Kerteminde Kommune skal give de ældre mere hjemmehjælp, selv om det kan komme til at betyde besparelser på andre områder	1	positiv
-678	Der skal etableres flere parkeringspladser i Egedal Kommune	2	positiv
-679	Politikerne skal forhindre opførelse af moskeer	5	positiv
-681	Egedal Kommune skal fremme opførelsen af flere almene lejeboliger	9	positiv
-784	Kommunalbestyrelsen skal arbejde for, at flytrafikken i Københavns Lufthavn bliver reduceret	15	positiv
-787	Daginstitutioner skal flyttes fra områder med høj luftforurening	9	positiv
-793	Kommunen skal bygge en ny folkeskole i Tårnby Kommune	skole og børn	positiv
-798	Vordingborg Kommune skal finde plads til flere solcelleparker og vindmøller på land	3	positiv
-799	Vordingborg Kommune skal bruge flere penge på at sikre kommunens mange kilometer kystlinje mod oversvømmelser	14	positiv
-800	Vordingborg Kommune skal bruge flere penge på at tiltrække turister	11	positiv
-779	Der skal bygges flere boliger i kommunen	9	positiv
-780	Kommunalbestyrelsesmøderne i Vallensbæk skal livestreames på kommunens hjemmeside	15	positiv
-785	Sommerferiens lukkeuger i daginstitutionerne skal afskaffes	9	negativ
-948	Grundejere skal betale hovedparten for kystsikringen ved Strandparken	14	positiv
-841	Stevns Kommune skal finde plads til flere vindmøller og solcelleanlæg	3	positiv
-843	Der skal hellere prioriteres penge til flere ældreboliger og plejehjemspladser end til flere daginstitutioner	1	positiv
-777	Der skal satses mere på vedvarende energikilder ved at få flere vindmøller og solcelleanlæg i kommunen	3	positiv
-731	Odsherred Kommune skal arbejde for et hurtigere stop for muslingeskrab i Isefjorden	14	positiv
-732	Kommunen skal finde plads til både flere solcelleparker og vindmøller på land	3	positiv
-740	Der skal etableres en solcellepark nord for Gadstrup	3	positiv
-776	Der skal lukkes flere små daginstitutioner i kommunen for at tilpasse antallet af pladser til antallet af børn	9	negativ
-832	Der skal være mindre biltrafik i bymidten i Roskilde	2	positiv
-834	Det nye byråd skal garantere, at der ikke kommer flere lukninger eller sammenlægninger i folkeskolen	skole og børn	positiv
-848	Slagelse Kommune skal forbedre busforbindelserne mellem by og land, så flere får adgang til kollektiv transport	2	positiv
-849	Ældreområdet i Slagelse Kommune skal fredes, hvis der bliver behov for besparelser i kommunen	1	positiv
-719	Der skal satses mere på vedvarende energikilder ved at få flere vindmøller og solcelleanlæg i kommunen	3	positiv
-720	Der skal etableres flere parkeringspladser uden tidsbegrænsning i Ringsted midtby	2	positiv
-721	Kommunen skal gøre mere for at sikre elevernes trivsel på skolerne	skole og børn	positiv
-778	Der skal synges morgensang på alle folkeskoler i kommunen	selvbestemmelse	negativ
-829	Rudersdal skal have et kommunalt parkeringskorps, der kan give afgifter til bilister, der holder ulovligt	2	positiv
-846	Der skal etableres en solcellepark i Solrød Kommune	3	positiv
-847	Der skal indføres stop for byggeri af nye boliger	4	positiv
-826	Der skal indføres stop for byggeri af nye boliger	4	positiv
-828	Kommunen skal prioritere at etablere flere plejehjemspladser over andre anlægsprojekter	1	positiv
-705	Kommunen skal prioritere idrætsforeninger og -faciliteter i kommunens mindre byer frem for i Næstved by	18	positiv
-706	Næstved Kommune skal have flere solcelleparker og vindmøller på land	3	positiv
-767	Letbanen er en gevinst for kommunen	2	positiv
-768	Der skal være betalingsparkering i centrum af Lyngby by	2	positiv
-775	Der skal indføres stop for byggeri af nye boliger	4	positiv
-769	Lolland Kommune skal bruge flere penge på at forhindre oversvømmelser i Nakskov by	14	positiv
-770	Lolland Kommune skal have flere solcelleparker	3	positiv
-758	Der skal ikke bygges flere boliger i Lejre frem mod 2030	9	negativ
-766	Brugerbetalingen til SFO og daginstitutioner skal sættes ned, selv hvis det vil betyde besparelser på andre velfærdsområder	9	positiv
-774	Kommunen skal give tilladelse til at oprette en ny friskole på Blæsenborgvej i Lejre by	fællesskab?	negativ
-918	De penge, kommunen bruger på byudvikling, skal bruges i andre byer end Billund by	4	positiv
-920	Der skal nedlægges plejehjemspladser i kommunen, så det passer til det aktuelle behov	1	negativ
-747	Københavns Kommune skal oprette akutskoler til folkeskoleelever, der har været grænseoverskridende eller voldelige over for klassekammerater eller lærere	skole og børn	positiv
-748	Den kommende kunstige halvø Lynetteholm er en vigtig del af udviklingen af København	4	positiv
-749	Det er en god idé at nedlægge parkeringspladser i centrum af København by	2	positiv
-739	Alle kommunens møder med virksomheder skal være åbne og med referat	16	positiv
-746	Kalundborg Kommune skal bruge penge på at gøre Campus Kalundborg mere attraktivt for unge	19	positiv
-844	Kommunalbestyrelsen skal arbejde for at sikre, at der kommer en Kattegatforbindelse	15	positiv
-852	Holbæk Kommune skal arbejde for et hurtigere stop for muslingeskrab i Isefjorden	14	positiv
-933	Kommunens mindre byer skal prioriteres højere, for eksempel gennem øget støtte til skoler og ældre	skole og børn	positiv
-935	Planerne for en energipark med både solceller og vindmøller i et naturområde ved Vognserup Gods skal gennemføres	3	positiv
-946	Kommunen skal ansætte tryghedsvagter, der kan gå rundt i bestemte områder og forebygge uro	13	positiv
-947	Kommunen skal droppe førskoleordningen, hvor kommende skolebørn stopper i børnehaven og starter i SFO i foråret	skole og børn	positiv
-963	Projektet med stormflodssikring gennem landindvinding i havet syd for Avedøre Holme skal gennemføres	14	positiv
-958	Det er en god idé med en muslimsk gravplads i kommunen	5	positiv
-959	Der skal indføres stop for byggeri af nye boliger	4	positiv
-961	Kommunen skal fortsat stille krav om minimum 10 ugers projektbaseret undervisning i folkeskolerne	selvbestemmelse	negativ
-743	Der skal være to timers gratis parkering i Køge midtby	2	positiv
-744	Det er en god idé at etablere ‘Vallø Energipark’ med høje vindmøller i Vallø Storskov	3	positiv
-745	Den kommende statsvej, der skal mindske den stigende biltrafik i Køge, skal placeres nord for Herfølge i Køge og ikke syd for Hårlev i Stevns	2	positiv
-954	Kommunen skal prioritere, at de ældre får gjort rent hver anden frem for hver tredje uge, også hvis det medfører besparelser på andre områder	1	positiv
-956	Der skal bygges flere boliger for at tiltrække nye borgere til Hørsholm	9	positiv
-949	Der skal ansættes flere medarbejdere på plejehjemmene, også hvis det sker på bekostning af andre områder	1	positiv
-950	Det er en god idé at prioritere, at kommunens nye stadionfaciliteter ved idrætscenteret kan leve op til kravene for 1. divisionsfodbold	18	positiv
-951	Det er en god idé med en muslimsk gravplads i kommunen	5	positiv
-854	Kommunen skal hyre ekstern hjælp til at forbedre arbejdsmiljøet på rådhuset	14	positiv
-855	Fanø skal have plads til flere turister og derfor skal der i lokalplaner give plads til turisme-byggeri	4	positiv
-983	Kommunen skal bevare førskoleordningen, hvor kommende skolebørn stopper i børnehaven og starter i SFO i foråret	skole og børn	negativ
-986	Der skal indføres stop for byggeri af nye boliger	4	positiv
-993	Det er en god idé at yde økonomisk støtte til filmprojekter med optagelser i Halsnæs	6	positiv
-994	Det er en god idé at bygge et strandhotel på Hundested Havn	11	positiv
-995	Alle folkeskoler i Halsnæs skal have deres egen forebyggelsesrådgiver, der kan hjælpe børn og unge med deres problemer	skole og børn	positiv
-940	Byudviklingen i Favrholm skal fortsat prioriteres højt	4	positiv
-942	Der skal være færre medlemmer af byrådet end de nuværende 27	15	positiv
-999	Guldborgsund Kommune skal være bedre til at give individuel støtte tilunge med psykiske lidelser, så de kan komme i job eller uddannelse	udsatte	positiv
-1000	Kommunen skal sikre sommerhusområder mod oversvømmelser	9	positiv
-987	Kommunen skal bruge penge på at få store sportsarrangementer til Helsingør	18	positiv
-989	Kommunen skal fortsat have regler for, hvor sent unge under 18 år må opholde sig i nattelivet, hvor der udskænkes alkohol	19	positiv
-984	Strandfodringen - påfyldning af sand - er den rigtige løsning i kystsikringsprojektet ‘Nordkystens Fremtid’	14	positiv
-985	Kommunen skal føre mere kontrol med den jord, der bliver læsset af i Gribskov	13	positiv
-1001	Byrådet skal modarbejde, at der bliver sat elge ud i naturnationalparken i Gribskov	14	positiv
-976	Kommunalbestyrelsen skal genindføre kravet om en times bevægelse i folkeskolerne	selvbestemmelse	negativ
-967	Det er en god idé med tryghedsvagter, der patruljerer i Greve for at forebygge uro og bidrage til øget tryghed	13	positiv
-968	Det er en god idé, at et EU-statsborgerskab er afgørende for, om man må flytte ind i boligområdet Askerød	4	positiv
-971	Kommunen skal give økonomisk tilskud til forældre, der passer egne børn hjemme	1	positiv
-972	Kommunen skal droppe førskoleordningen, hvor kommende skolebørn stopper i børnehaven og starter i SFO i foråret	skole og børn	positiv
-973	Der skal indføres stop for byggeri af nye boliger	4	positiv
-969	Der skal indføres stop for byggeri af nye boliger	4	positiv
-927	Kommunen skal have tryghedsvagter, der skal hjælpe politiet med at opretholde ro og orden - blandt andet ved Frederikssund Station efter mørkets frembrud	13	positiv
-928	Byudviklingen i Vinge skal fortsat prioriteres højt	4	positiv
-981	Kommunen skal støtte kystbeskyttelsesprojekter økonomisk, selv hvis det betyder besparelser på andre områder	10	positiv
-874	Valgfaget 'Privatøkonomi' skal udbydes i de ældste klasser på alle skoler	selvbestemmelse	negativ
-875	Der skal indføres stop for byggeri af nye boliger	4	positiv
-876	Frederiksberg skal genindføre de to timers gratis parkering	2	positiv
-871	Faxe Kommune skal prioritere at forbedre sagsbehandlingen for udsatte børn og unge	17	positiv
-886	Faxe Kommune skal have flere solcelleparker	3	positiv
-863	Kommunen skal oprette flere 0. klasser på skoler, hvor der er for mange børn per klasse	skole og børn	positiv
-864	Der skal indføres stop for byggeri af nye boliger	4	positiv
-865	Kommunen skal hyre ekstern hjælp til at forbedre arbejdsmiljøet i byrådet	14	positiv
-866	Et borgerforslag skal have underskrifter fra 200 borgere i stedet for 400, før det skal behandles i byrådet i Egedal	15	positiv
-881	Der skal være færre medlemmer af byrådet end de nuværende 27	15	positiv
-882	Byrådet skal arbejde for, at der bliver lavet en omfartsvej i form af en forlængelse af Overdrevsvej til det sydøstlige Fredensborg	8	positiv
-884	Der skal indføres stop for byggeri af nye boliger	4	positiv
-914	Der skal indføres stop for byggeri af nye boliger	4	positiv
-915	Skolerne på Bornholm skal friholdes fra besparelser, selv hvis det kan føre til besparelser på andre velfærdsområder	skole og børn	positiv
-916	Færgen til/fra Bornholm skal være CO2-neutral, selv hvis billetten bliver dyrere	2	positiv
-917	Kommunen skal støtte Bornholms kommunale busselskab BAT mere økonomisk, så det bliver attraktivt for borgerne at køre med bus	2	positiv
-900	Kommunen skal bevare alle de små skoler	skole og børn	positiv
-901	Kommunen skal sikre en hurtigere sagsbehandling af bygge- og miljøsager	14	positiv
-921	Der skal indføres stop for byggeri af nye boliger	4	positiv
-922	Kommunen skal fortsætte med at føre kontrol med ulovlig helårsbeboelse i kolonihaverne	13	positiv
-923	Der skal fortsat være totalt rygeforbud på kommunens udendørs idrætsfaciliteter	13	positiv
-804	Nye energiparker ved Svoldrup Kær og Nørrekær Enge skal være så små som muligt	3	positiv
-805	Det er en god idé at lukke skoler med mindre end 75 elever for at spare penge	skole og børn	negativ
-889	Kystsikring i kommunen skal betales af alle gennem skatten	10	positiv
-892	Byrådsmøderne i Allerød skal livestreames på kommunens hjemmeside	15	positiv
-725	Der skal opføres flere solceller eller vindmøller i kommunen	3	positiv
-735	Der skal bygges flere daginstitutioner	9	positiv
-738	Morsø Kommune skal lave flere energizoner til opstilling af vindmøller og solceller end de to, der allerede er planlagt	3	positiv
-756	Morsø Kommune skal skære ned på støtten til Kulturmødet på Mors	6	positiv
-788	Thisted Kommune skal hæve den nuværende grænse på 75 elever for, hvornår en skole skal lukkes	skole og børn	negativ
-789	Thisted Kommune skal godkende flere vindmølle- og solcelleprojekter på land	3	positiv
-790	Byrådet skal prioritere pengene til udvikling af Thisted by fremfor landdistrikterne	15	positiv
-761	Kommunen skal genindføre tilskud til hjemmepasning	10	positiv
-762	Kommunens tilladelse til at opføre et højhus på Jernbanegade i Hobro skal trækkes tilbage	4	positiv
-763	Kommunen skal bakke op om opførelsen af et stort biogasanlæg nær Hobro	3	positiv
-936	Der skal inddrages mere landbrugsjord til grønne energiprojekter som f.eks. vindmøller og solcelleparker	3	positiv
-937	Kommunens plejehjemsbeboere skal samles i færre og større ældrecentre i Hjørring, Hirtshals, Sindal, Tårs, Vrå og Løkken	1	positiv
-938	Det kan blive nødvendigt at lukke folkeskoler med under 100 elever	skole og børn	negativ
-851	Hjemmeplejen skal bruge mere tid hjemme hos den enkelte borger, selvom det bliver dyrere	1	positiv
-853	Folkeskoler med under 70 elever skal lukkes for at spare penge	skole og børn	negativ
-964	Der skal være en frokostordning for børnene i alle daginstitutioner	9	positiv
-872	Der skal skæres i den ordning, der giver ældre mulighed for at tilvælge ekstra hjælp - også kaldet klippekortordningen - for at spare penge	1	negativ
-873	Der skal lukkes folkeskoler, når elevtallet er for lavt	skole og børn	negativ
-907	Der skal etableres flere energiparker med sol- eller vindenergi	3	positiv
-890	Der skal opføres flere vindmøller og solceller i Brønderslev Kommune	3	positiv
-910	Kommunen skal tilbyde tilskud til hjemmepasning	10	positiv
-911	Asaa Skole skal lukkes	skole og børn	negativ
-896	Byrådets midlertidige stop for udvidelsen af Aarhus Havn skal gøres permanent	15	negativ
-897	Biltrafikken i Aarhus midtby skal begrænses, for eksempel gennem ensretninger, hastighedsnedsættelser og en nul-emissionszone	2	negativ
-898	Kommunen skal fortsætte med planerne for det nye fodboldstadion i Kongelunden, selv hvis omkostningerne stiger igen	18	positiv
-899	Der skal stilles vindmøller op på industrihavnen i Aarhus	3	positiv
-801	Viborg Kommune skal fortsætte med etableringen af planlagte vedvarende energiparker	3	positiv
-802	Viborg Kommune skal bygge et særligt botilbud til voksne med handicap og udadreagerende adfærd	7	positiv
-831	Skive Kommune skal hæve grænsen for, hvor få elever der må være på en folkeskole, før den lukkes. Den nuværende grænse er 45 elever	skole og børn	negativ
-833	Der skal bygges flere vedvarende energiparker med solceller eller vindmøller i Skive Kommune	3	positiv
-850	Den ordning for ældre (klippekortordningen), der giver mulighed for at tilvælge ekstra hjælp, skal beskæres, hvis det styrker andre velfærdsområder	1	positiv
-814	Der skal bygges flere sommerhuse langs kommunens kyster	9	positiv
-815	Der skal stilles flere solceller og vindmøller op på marker i kommunen	3	positiv
-835	Kommunens ældre skal fremover kunne komme på privatejede plejehjem, såkaldte friplejehjem, flere steder, end det ene der allerede er lokalplan for i Egsmark ved Ebeltoft	1	positiv
-839	Det er en god idé, at kommunen lukker en af kommunens mindre skoler for at spare penge	0	positiv
-817	Der skal opføres flere solcelleparker og vindmøller i Skanderborg Kommune	3	positiv
-819	Borgere i Silkeborg Kommune med bolig ned til søer og åer må selv sikre sig mod oversvømmelser	9	positiv
-820	Det er en god idé, at der bygges flere højhuse i Silkeborg	4	positiv
-821	Kommunen skal prioritere udvikling i de mindre byer, herunder skoler og foreningsliv, frem for i Silkeborg by	0	positiv
-822	Kommunen skal fortsat bruge penge på at få store events til byen såsom Postnord Danmark Rundt	6	positiv
-823	Kommunen skal sikre, at hurtigfærgen Lilleøre fortsat sejler mellem Samsø og Aarhus, selv hvis det er omkostningsfuldt for kommunen	2	positiv
-824	Samsø Kommune skal bygge flere lejeboliger på øen	9	positiv
-825	Samsø skal have flere energiprojekter som solcelleparker og landvindmøller	3	positiv
-722	Det skal være en prioritet for kommunen, at mindst et af feriebyprojekterne i Ringkøbing – Raunonia eller Fjordstaden – bliver til virkelighed	11	positiv
-723	Der skal bygges flere solceller og vindmøller på land	3	positiv
-724	Kommunen skal hæve grænsen for, hvornår en skole skal lukkes på grund af for få elever. Den nuværende grænse er på 60 elever	0	negativ
+id	sprg	gruppe	retning
+650	Flere opgaver i den offentlige sektor skal fremover løses af private virksomheder	1	positiv
+651	Offentlige institutioner tager for mange hensyn til religiøse minoriteter, for eksempel ved at tilbyde måltider uden svinekød	3	positiv
+652	Investering i vejnettet haster mere end investering i kollektiv trafik	4	positiv
+654	Det er muligt at spare penge i den offentlige sektor, uden at det går ud over den offentlige velfærd	5	negativ
+656	Kommuneskatten i Randers Kommune skal sættes op og pengene skal bruges på bedre velfærd	5	positiv
+664	Randers Kommune skal gøre det billigere at drive virksomhed	6	positiv
+666	Der skal opsættes flere anlæg til vedvarende energi som vindmøller og solceller i Randers Kommune	7	positiv
+667	Randers Kommune skal sikre frokostordning i folkeskolen, selv om det kan tage penge fra andre opgaver	0	positiv
+671	Randers Kommune skal sikre brugbare beskyttelsesrum, selv om det kan betyde færre penge til andre områder	14	positiv
+672	Ældre skal kunne tilkøbe ekstra service på de kommunale plejehjem	8	positiv
+675	Randers Kommune skal prioritere, at skoleelever bliver blandet efter etnicitet og social baggrund – også selv om det kan gå ud over forældrenes fri skolevalg	9	positiv
+676	Der skal indføres højere brugerbetaling på kultur- og fritidstilbud som teatre, ungdomsklubber og biblioteksarrangementer	8	positiv
+678	Der skal etableres flere parkeringspladser i Brøndby Kommune	4	positiv
+679	Politikerne skal forhindre opførelse af moskeer	3	negativ
+681	Brøndby Kommune skal fremme opførelsen af flere almene lejeboliger	10	positiv
+682	Der skal investeres mere i kulturlivet i Ringkøbing-Skjern Kommune	11	positiv
+683	Det skal være lettere at få byggetilladelse i Ringkøbing-Skjern Kommune	10	positiv
+685	Natur er vigtigere end byggeri af nye sommerhuse	16	negativ
+686	Ringkøbing-Skjern Kommune skal investere mere i offentlig transport mellem kommunens byer	17	positiv
+688	Det skal være lettere at få byggetilladelse i Odder Kommune	10	positiv
+690	Odder Kommune skal investere mere i offentlig transport mellem kommunens byer	17	positiv
+691	Der må gerne bygges flere højhuse i min kommune	10	positiv
+692	Der skal investeres mere i kulturlivet i Randers Kommune	11	positiv
+693	Det skal være lettere at få byggetilladelse i Randers Kommune	10	positiv
+698	Der bliver bygget for mange højhuse	10	negativ
+702	Politikerne skal forhindre opførelse af moskeer	3	negativ
+703	Der skal etableres flere parkeringspladser i Aarhus Kommune	4	positiv
+704	Kommunen skal betale for at genoprette de busruter, Region Midtjylland har nedlagt, som fx mellem Grenå og Randers	17	positiv
+705	Kommunen skal prioritere idrætsforeninger og -faciliteter i kommunens mindre byer frem for i Næstved by	12	positiv
+706	Næstved Kommune skal have flere solcelleparker og vindmøller på land	7	positiv
+707	Nyborg Kommune skal servere mere vegetarisk mad og mindre kød på kommunens plejehjem	7	positiv
+708	Det skal være sværere at få tilladelse til at rive bygninger ned i Nyborg	10	negativ
+709	Det er en god idé at lukke de mindre skoleafdelinger i f.eks. Frørup og Aunslev, hvor elevtallet har været faldende over en årrække, for at spare penge	12	negativ
+710	En ny kommunal svømmehal bør ligge i Søndersø	11	positiv
+711	Nordfyns Kommune skal producere mere grøn energi, end kommunens borgere selv skal bruge	7	positiv
+712	Kommunen skal bruge flere penge på at holde liv i butikslivet i Grenå	6	positiv
+713	Der skal udstykkes flere byggegrunde i de små byer som for eksempel i Assendrup	10	positiv
+714	Den foreslåede store energiklynge på Djursland skal placeres ved landsbyen Homå, selvom det kan være til gene for borgerne	-1	negativ
+715	Der skal være en frokostordning for børnene i alle daginstitutioner	0	positiv
+716	Kommunen skal bidrage til den grønne omstilling ved at tillade energiparker som for eksempel solcelleanlæg og biogasanlæg ved Torrild	7	positiv
+717	Letbanens etape 2 til Vollsmose og Seden fra centrum af Odense skal etableres	17	positiv
+719	Der skal satses mere på vedvarende energikilder ved at få flere vindmøller og solcelleanlæg i kommunen	7	positiv
+720	Der skal etableres flere parkeringspladser uden tidsbegrænsning i Ringsted midtby	4	positiv
+721	Kommunen skal gøre mere for at sikre elevernes trivsel på skolerne	0	positiv
+722	Det skal være en prioritet for kommunen, at mindst et af feriebyprojekterne i Ringkøbing – Raunonia eller Fjordstaden – bliver til virkelighed	16	positiv
+723	Der skal bygges flere solceller og vindmøller på land	7	positiv
+724	Kommunen skal hæve grænsen for, hvornår en skole skal lukkes på grund af for få elever. Den nuværende grænse er på 60 elever	12	negativ
+725	Der skal opføres flere solceller eller vindmøller i kommunen	7	positiv
+726	Det er en god idé at kommunen investerer i at gøre kommunens naturområder attraktive for flere turister, som ved Saksild Strand hvor der er planer om at bygge feriehytter ved det gamle badehotel	16	positiv
+727	Kommunen skal prioritere udvikling i den sydlige og østlige del af kommunen højere	12	positiv
 728	Der skal bruges flere penge på at vedligeholde kommunens bygninger, for eksempel rådhus, skoler og daginstitutioner	0	positiv
-729	Planerne om klimabroen skal droppes til fordel for en Østbro	14	negativ
-730	Det er en god idé, at der bygges flere højhuse i Randers	4	positiv
-704	Kommunen skal betale for at genoprette de busruter, Region Midtjylland har nedlagt, som fx mellem Grenå og Randers	2	positiv
-771	Lemvig Kommune skal give tilladelse til flere vedvarende energiprojekter på land	3	positiv
-772	Lemvig Kommune skal lukke mindst en folkeskole for at spare penge	0	positiv
-773	Lemvig Kommune skal spare på udgifterne til idrætshaller og svømmehaller	18	positiv
-952	Ikast-Brande skal prioritere byudvikling i Ikast by frem for i resten af kommunens byer	4	positiv
-953	Ikast-Brande Kommune skal godkende et biogasanlæg nord for Ikast	3	positiv
-713	Der skal udstykkes flere byggegrunde i de små byer som for eksempel i Assendrup	4	positiv
-716	Kommunen skal bidrage til den grønne omstilling ved at tillade energiparker som for eksempel solcelleanlæg og biogasanlæg ved Torrild	3	positiv
-726	Det er en god idé at kommunen investerer i at gøre kommunens naturområder attraktive for flere turister, som ved Saksild Strand hvor der er planer om at bygge feriehytter ved det gamle badehotel	11	positiv
+729	Planerne om klimabroen skal droppes til fordel for en Østbro	7	negativ
+730	Det er en god idé, at der bygges flere højhuse i Randers	10	positiv
+731	Odsherred Kommune skal arbejde for et hurtigere stop for muslingeskrab i Isefjorden	18	positiv
+732	Kommunen skal finde plads til både flere solcelleparker og vindmøller på land	7	positiv
+733	Kolindsund skal gendannes som sø	18	positiv
+734	Flere gader i Odense skal laves om til cykelgader, hvor biler ikke må køre	4	negativ
+735	Der skal bygges flere daginstitutioner	0	positiv
+736	Morsø Kommune skal satse på udvikling i og omkring Nykøbing by fremfor de mindre byer	12	negativ
+737	Det er en god idé, at kommunen er med til at finansiere det årlige klimafolkemøde	7	positiv
+738	Morsø Kommune skal lave flere energizoner til opstilling af vindmøller og solceller end de to, der allerede er planlagt	7	positiv
+739	Alle kommunens møder med virksomheder skal være åbne og med referat	13	positiv
+740	Der skal etableres en solcellepark nord for Gadstrup	7	positiv
+741	Der skal anlægges en cykelsti fra Nordlangeland til Sydlangeland	16	positiv
+742	Kommunen skal ansætte en bosætningskonsulent for at tiltrække nye borgere	-1	positiv
+743	Der skal være to timers gratis parkering i Køge midtby	4	positiv
+744	Det er en god idé at etablere ‘Vallø Energipark’ med høje vindmøller i Vallø Storskov	7	positiv
+745	Den kommende statsvej, der skal mindske den stigende biltrafik i Køge, skal placeres nord for Herfølge i Køge og ikke syd for Hårlev i Stevns	-1	positiv
+746	Kalundborg Kommune skal bruge penge på at gøre Campus Kalundborg mere attraktivt for unge	0	positiv
+747	Københavns Kommune skal oprette akutskoler til folkeskoleelever, der har været grænseoverskridende eller voldelige over for klassekammerater eller lærere	0	positiv
+748	Den kommende kunstige halvø Lynetteholm er en vigtig del af udviklingen af København	-1	positiv
+749	Det er en god idé at nedlægge parkeringspladser i centrum af København by	4	negativ
+750	Planerne om opførelsen af Marina City - et større samlet boligområde ved havnen og ny lystbådehavn - skal føres ud i livet, selv om de samlede omkostninger er usikre	10	positiv
+751	Der skal bygges boliger langs åen i Kolding midtby, blandt andet hvor der lige nu er parkeringspladser	10	positiv
+752	Kommunen skal gøre mere for at sikre elevernes trivsel på skolerne	0	positiv
+753	Kommunen skal bidrage til fuldførelsen af planerne om en udvidelse af Odense Havn på en million kvadratmeter samt etablering af en bredere sejlrende gennem Odense Fjord	6	positiv
+754	Kommunen skal genoplive planerne om at etablere en sluse i Kerteminde havn for at klimasikre kommunen	14	positiv
+755	Kerteminde Kommune skal give de ældre mere hjemmehjælp, selv om det kan komme til at betyde besparelser på andre områder	15	positiv
+756	Morsø Kommune skal skære ned på støtten til Kulturmødet på Mors	11	negativ
+757	Det er en god idé at bygge en stor ny daginstitution med plads til op til 180 børn ved Ørsted Skole i Rudkøbing	0	positiv
+758	Der skal ikke bygges flere boliger i Lejre frem mod 2030	10	negativ
+759	Middelfart Kommune skal droppe førskoleordningen, hvor kommende skolebørn stopper i børnehaven og starter i SFO i foråret	0	positiv
+760	Kommunen skal prioritere udviklingen af de mindre byer, for eksempel Harndrup, Gelsted og Husby, frem for Middelfart by	12	positiv
+761	Kommunen skal genindføre tilskud til hjemmepasning	0	positiv
+762	Kommunens tilladelse til at opføre et højhus på Jernbanegade i Hobro skal trækkes tilbage	10	negativ
+763	Kommunen skal bakke op om opførelsen af et stort biogasanlæg nær Hobro	6	positiv
+764	Læsø Kommune skal gøre mere for at øens beboere bliver boende på øen	-1	negativ
+765	Læsø skal lægges sammen med Frederikshavn Kommune	-1	negativ
+766	Brugerbetalingen til SFO og daginstitutioner skal sættes ned, selv hvis det vil betyde besparelser på andre velfærdsområder	0	positiv
+767	Letbanen er en gevinst for kommunen	17	positiv
+768	Der skal være betalingsparkering i centrum af Lyngby by	4	negativ
+769	Lolland Kommune skal bruge flere penge på at forhindre oversvømmelser i Nakskov by	14	positiv
+770	Lolland Kommune skal have flere solcelleparker	7	positiv
+771	Lemvig Kommune skal give tilladelse til flere vedvarende energiprojekter på land	7	positiv
+772	Lemvig Kommune skal lukke mindst en folkeskole for at spare penge	12	negativ
+773	Lemvig Kommune skal spare på udgifterne til idrætshaller og svømmehaller	11	negativ
+774	Kommunen skal give tilladelse til at oprette en ny friskole på Blæsenborgvej i Lejre by	1	positiv
+775	Der skal indføres stop for byggeri af nye boliger	10	negativ
+776	Der skal lukkes flere små daginstitutioner i kommunen for at tilpasse antallet af pladser til antallet af børn	12	negativ
+777	Der skal satses mere på vedvarende energikilder ved at få flere vindmøller og solcelleanlæg i kommunen	7	positiv
+778	Der skal synges morgensang på alle folkeskoler i kommunen	-1	negativ
+779	Der skal bygges flere boliger i kommunen	10	positiv
+780	Kommunalbestyrelsesmøderne i Vallensbæk skal livestreames på kommunens hjemmeside	13	positiv
+781	Tønder kommune skal fortsat finde plads til nye solcelleparker og vindmøller	7	positiv
+782	Kommunen skal gøre mere for at tiltrække nye borgere og vende befolkningsudviklingen	-1	negativ
+783	Der skal være flere overnatningsmuligheder for turister på Rømø	16	positiv
+784	Kommunalbestyrelsen skal arbejde for, at flytrafikken i Københavns Lufthavn bliver reduceret	7	positiv
+785	Sommerferiens lukkeuger i daginstitutionerne skal afskaffes	0	positiv
+786	Tårnby Kommune skal lægges sammen med Dragør Kommune	-1	negativ
+787	Daginstitutioner skal flyttes fra områder med høj luftforurening	0	positiv
+788	Thisted Kommune skal hæve den nuværende grænse på 75 elever for, hvornår en skole skal lukkes	12	negativ
+789	Thisted Kommune skal godkende flere vindmølle- og solcelleprojekter på land	7	positiv
+790	Byrådet skal prioritere pengene til udvikling af Thisted by fremfor landdistrikterne	12	negativ
+791	Kommunen skal arbejde for en fast forbindelse mellem Als og Fyn	4	positiv
+792	Der skal gøres mere for at udvikle kommunens mindre byer med begivenheder, grønne oaser og nye erhvervstiltag	12	positiv
+793	Kommunen skal bygge en ny folkeskole i Tårnby Kommune	0	positiv
+794	Varde kommune skal finde plads til nye solcelleparker og vindmøller	7	positiv
+795	Varde Kommune skal lave flere tiltag, der forbereder borgerne på at møde ulve	18	positiv
+796	Kommunen skal arbejde for at få flere turister til kommunens ferieområder	16	positiv
+797	Ærø skal indføre forbud mod at bruge sprøjtegifte på hele øen	18	positiv
+798	Vordingborg Kommune skal finde plads til flere solcelleparker og vindmøller på land	7	positiv
+799	Vordingborg Kommune skal bruge flere penge på at sikre kommunens mange kilometer kystlinje mod oversvømmelser	14	positiv
+800	Vordingborg Kommune skal bruge flere penge på at tiltrække turister	16	positiv
+801	Viborg Kommune skal fortsætte med etableringen af planlagte vedvarende energiparker	7	positiv
+802	Viborg Kommune skal bygge et særligt botilbud til voksne med handicap og udadreagerende adfærd	2	positiv
+803	Det er bedre at bygge i højden end i bredden omkring Viborg by	-1	negativ
+804	Nye energiparker ved Svoldrup Kær og Nørrekær Enge skal være så små som muligt	7	negativ
+805	Det er en god idé at lukke skoler med mindre end 75 elever for at spare penge	12	negativ
+806	Kommunen skal bruge flere penge på gøre det attraktivt at bo i lokalområderne uden for Aars	12	positiv
+807	Der skal investeres i udvikling af de mindre byer frem for Vejle by	12	positiv
+808	Kommunens nuværende indsats og igangværende planer mod oversvømmelser i Vejle er tilstrækkelige	14	negativ
+809	Der skal etableres en havnetunnel i Vejle by for at aflaste trafikken	4	positiv
+810	Vejen Kommune skal etablere flere tilbud i kommunen til udsatte børn og unge	0	positiv
+811	Kommunen skal bruge flere penge på at styrke skoleområdet	0	positiv
+812	Sønderborg Lufthavn skal ikke udvides mere end allerede planlagt	18	positiv
+813	Kolindsund skal gendannes som sø	18	positiv
+814	Der skal bygges flere sommerhuse langs kommunens kyster	16	positiv
+815	Der skal stilles flere solceller og vindmøller op på marker i kommunen	7	positiv
+816	Kommunens mål om at være 100 procent grøn i 2030 har store negative konsekvenser for borgerne	7	negativ
+817	Der skal opføres flere solcelleparker og vindmøller i Skanderborg Kommune	7	positiv
+818	Området til Smukfest skal indskrænkes	11	negativ
+819	Borgere i Silkeborg Kommune med bolig ned til søer og åer må selv sikre sig mod oversvømmelser	14	negativ
+820	Det er en god idé, at der bygges flere højhuse i Silkeborg	10	positiv
+821	Kommunen skal prioritere udvikling i de mindre byer, herunder skoler og foreningsliv, frem for i Silkeborg by	12	positiv
+822	Kommunen skal fortsat bruge penge på at få store events til byen såsom Postnord Danmark Rundt	11	positiv
+823	Kommunen skal sikre, at hurtigfærgen Lilleøre fortsat sejler mellem Samsø og Aarhus, selv hvis det er omkostningsfuldt for kommunen	12	positiv
+824	Samsø Kommune skal bygge flere lejeboliger på øen	10	positiv
+825	Samsø skal have flere energiprojekter som solcelleparker og landvindmøller	7	positiv
+826	Der skal indføres stop for byggeri af nye boliger	10	negativ
+828	Kommunen skal prioritere at etablere flere plejehjemspladser over andre anlægsprojekter	15	positiv
+829	Rudersdal skal have et kommunalt parkeringskorps, der kan give afgifter til bilister, der holder ulovligt	4	negativ
+830	Kommunen skal sælge flere grunde til byggeprojekter	10	positiv
+831	Skive Kommune skal hæve grænsen for, hvor få elever der må være på en folkeskole, før den lukkes. Den nuværende grænse er 45 elever	12	negativ
+832	Der skal være mindre biltrafik i bymidten i Roskilde	4	negativ
+833	Der skal bygges flere vedvarende energiparker med solceller eller vindmøller i Skive Kommune	7	positiv
+834	Det nye byråd skal garantere, at der ikke kommer flere lukninger eller sammenlægninger i folkeskolen	12	positiv
+835	Kommunens ældre skal fremover kunne komme på privatejede plejehjem, såkaldte friplejehjem, flere steder, end det ene der allerede er lokalplan for i Egsmark ved Ebeltoft	1	positiv
+836	Svendborg Kommune skal igen have to tankbiler i beredskabet og ikke kun en til fx brandslukning	5	positiv
+837	Beslutningen om at etablere et nyt område med store butikker ved motorvejen skal rulles tilbage	6	negativ
+838	Det er en god idé at udvikle Svendborg Havn med boliger, hotel og erhverv	10	positiv
+839	Det er en god idé, at kommunen lukker en af kommunens mindre skoler for at spare penge	12	negativ
+840	Struer Kommune skal prioritere udviklingen af bydelen Stævnen i Struer by frem for landsbyer og landområder	12	negativ
+841	Stevns Kommune skal finde plads til flere vindmøller og solcelleanlæg	7	positiv
+842	Kommunen skal prioritere at udvikle kommunens mindre byer, for eksempel Stenlille og Dianalund, frem for Sorø by	12	positiv
+843	Der skal hellere prioriteres penge til flere ældreboliger og plejehjemspladser end til flere daginstitutioner	15	positiv
+844	Kommunalbestyrelsen skal arbejde for at sikre, at der kommer en Kattegatforbindelse	4	positiv
+845	Der skal etableres en hundestrand i Solrød	-1	negativ
+846	Der skal etableres en solcellepark i Solrød Kommune	7	positiv
+847	Der skal indføres stop for byggeri af nye boliger	10	negativ
+848	Slagelse Kommune skal forbedre busforbindelserne mellem by og land, så flere får adgang til kollektiv transport	17	positiv
+849	Ældreområdet i Slagelse Kommune skal fredes, hvis der bliver behov for besparelser i kommunen	15	positiv
+850	Den ordning for ældre (klippekortordningen), der giver mulighed for at tilvælge ekstra hjælp, skal beskæres, hvis det styrker andre velfærdsområder	15	negativ
+851	Hjemmeplejen skal bruge mere tid hjemme hos den enkelte borger, selvom det bliver dyrere	15	positiv
+852	Holbæk Kommune skal arbejde for et hurtigere stop for muslingeskrab i Isefjorden	18	positiv
+853	Folkeskoler med under 70 elever skal lukkes for at spare penge	12	negativ
+854	Kommunen skal hyre ekstern hjælp til at forbedre arbejdsmiljøet på rådhuset	-1	positiv
+855	Fanø skal have plads til flere turister og derfor skal der i lokalplaner give plads til turisme-byggeri	16	positiv
+856	Fanø Kommune skal lægges sammen med Esbjerg	-1	negativ
+857	Kommunen skal arbejde for en fast forbindelse mellem Fyn og Als	4	positiv
+858	Kommunen skal prioritere udviklingen af de mindre byer frem for Faaborg, Ringe og Årslev	12	positiv
+859	Kommunen skal gennemføre anlægsprojektet ved Slagterigrunden, hvorder blandt andet skal ligge bibliotek, caféer og virksomheder	-1	positiv
+860	Favrskov skal etablere solcelleanlæg, vindmølleparker og biogasanlæg som det planlagte solcelleanlæg ved Hadsten-Nr. Galten	7	positiv
+861	Esbjerg kommune skal lave flere store arrangementer, som for eksempel den nye Festival Suset	11	positiv
+862	Esbjerg Kommune skal lægges sammen med Fanø Kommune	-1	negativ
+863	Kommunen skal oprette flere 0. klasser på skoler, hvor der er for mange børn per klasse	0	positiv
+864	Der skal indføres stop for byggeri af nye boliger	10	negativ
+865	Kommunen skal hyre ekstern hjælp til at forbedre arbejdsmiljøet i byrådet	-1	positiv
+866	Et borgerforslag skal have underskrifter fra 200 borgere i stedet for 400, før det skal behandles i byrådet i Egedal	-1	positiv
+867	Dragør Kommune skal lægges sammen med Tårnby Kommune	-1	negativ
+868	Esbjerg Kommune skal styrke skoleområdet ved at sikre flere timer med to lærere i klasserne	0	positiv
+869	Politikerne skal sikre byudvikling i den vestlige del af Favrskov Kommune – for eksempel i form af byggegrunde og andre anlægsprojekter	10	positiv
+870	Favrskov Kommune skal bygge en idrætshal i forbindelse med det kommende skolebyggeri i Foldby-Norring	11	positiv
+871	Faxe Kommune skal prioritere at forbedre sagsbehandlingen for udsatte børn og unge	2	positiv
+872	Der skal skæres i den ordning, der giver ældre mulighed for at tilvælge ekstra hjælp - også kaldet klippekortordningen - for at spare penge	15	negativ
+873	Der skal lukkes folkeskoler, når elevtallet er for lavt	12	negativ
+874	Valgfaget 'Privatøkonomi' skal udbydes i de ældste klasser på alle skoler	-1	negativ
+875	Der skal indføres stop for byggeri af nye boliger	10	negativ
+876	Frederiksberg skal genindføre de to timers gratis parkering	4	positiv
+877	Kommunen skal forbedre Monjasa Park (fodboldstadion), så det kommer på samme niveau som andre superligaklubber	11	positiv
+878	Fredericia Kommune skal prioritere udvikling af Fredericia by over de mindre byer og landområder	12	negativ
+879	Fredericia Kommune skal fortsat støtte Fredericia Teater økonomisk	11	positiv
+880	Fredericia Kommune skal bruge flere penge på markedsføring for at tiltrække krydstogtskibe til byen	16	positiv
+881	Der skal være færre medlemmer af byrådet end de nuværende 27	-1	positiv
+882	Byrådet skal arbejde for, at der bliver lavet en omfartsvej i form af en forlængelse af Overdrevsvej til det sydøstlige Fredensborg	4	positiv
+883	Det er en god idé at opføre et stort rensningsanlæg på Fredensborg Kongevej uden for Kokkedal	-1	negativ
+884	Der skal indføres stop for byggeri af nye boliger	10	negativ
+885	Faxe Kommune skal arbejde for, at der investeres lige så meget i landområderne som i Faxe og Haslev	12	positiv
+886	Faxe Kommune skal have flere solcelleparker	7	positiv
+888	Dragør Kommune skal arbejde for, at støj og luftforurening fra Københavns Lufthavn bliver reduceret	18	positiv
+889	Kystsikring i kommunen skal betales af alle gennem skatten	14	positiv
+890	Der skal opføres flere vindmøller og solceller i Brønderslev Kommune	7	positiv
+892	Byrådsmøderne i Allerød skal livestreames på kommunens hjemmeside	13	positiv
+893	Kommunen skal igangsætte rewildingprojekter, hvor store dyr – fx kvæg - lever vildt og går ude og græsser hele året	18	positiv
+895	Albertslund Kommune skal fortsætte med at byudvikle for at tiltrække flere borgere – for eksempel i den nye bydel Hersted	10	positiv
+896	Byrådets midlertidige stop for udvidelsen af Aarhus Havn skal gøres permanent	10	negativ
+897	Biltrafikken i Aarhus midtby skal begrænses, for eksempel gennem ensretninger, hastighedsnedsættelser og en nul-emissionszone	4	negativ
+898	Kommunen skal fortsætte med planerne for det nye fodboldstadion i Kongelunden, selv hvis omkostningerne stiger igen	11	positiv
+899	Der skal stilles vindmøller op på industrihavnen i Aarhus	7	positiv
+900	Kommunen skal bevare alle de små skoler	12	positiv
+901	Kommunen skal sikre en hurtigere sagsbehandling af bygge- og miljøsager	10	positiv
+902	Det skal være billigere at parkere i Aalborg	4	positiv
+903	Nørreport i Aabenraa skal bevares som et grønt område med plads til børn og bænke	18	positiv
+904	Der skal opsættes flere solceller og vindmøller i Aabenraa Kommune	7	positiv
+905	Aabenraa by skal have et vartegn som folk genkender	-1	negativ
+906	Kommunen skal tilbyde højere løn eller andre fordele for at tiltrække og fastholde pædagoger	0	positiv
+907	Der skal etableres flere energiparker med sol- eller vindenergi	7	positiv
+908	Det er vigtigere at reparere eksisterende veje end at sætte gang i nye anlægsprojekter	4	positiv
+909	Assens by bliver prioriteret for meget sammenlignet med centerbyer som for eksempel Glamsbjerg, Vissenbjerg eller Aarup	12	positiv
+910	Kommunen skal tilbyde tilskud til hjemmepasning	0	positiv
+911	Asaa Skole skal lukkes	12	negativ
+912	Andelen af pædagoger i kommunens SFO’er skal sættes op	0	positiv
+913	Det er en god idé at sænke hastighedsgrænsen på de kommunale veje	4	negativ
+914	Der skal indføres stop for byggeri af nye boliger	10	negativ
+915	Skolerne på Bornholm skal friholdes fra besparelser, selv hvis det kan føre til besparelser på andre velfærdsområder	0	positiv
+916	Færgen til/fra Bornholm skal være CO2-neutral, selv hvis billetten bliver dyrere	7	positiv
+917	Kommunen skal støtte Bornholms kommunale busselskab BAT mere økonomisk, så det bliver attraktivt for borgerne at køre med bus	17	positiv
+918	De penge, kommunen bruger på byudvikling, skal bruges i andre byer end Billund by	12	positiv
+919	Billund Kommune skal betale ekstra til oprensning af den forurenede Engsø i Grindsted, så den hurtigere renses	18	positiv
+920	Der skal nedlægges plejehjemspladser i kommunen, så det passer til det aktuelle behov	15	negativ
+921	Der skal indføres stop for byggeri af nye boliger	10	negativ
+922	Kommunen skal fortsætte med at føre kontrol med ulovlig helårsbeboelse i kolonihaverne	19	positiv
+923	Der skal fortsat være totalt rygeforbud på kommunens udendørs idrætsfaciliteter	19	positiv
+924	Det er en god ide at etablere en solcellepark ved Dærup	7	positiv
+925	Assens Kommune skal skabe flere buslinjer i kommunens yderområder	17	positiv
+926	Frederikshavn Kommune skal lægges sammen med Læsø Kommune	-1	negativ
+927	Kommunen skal have tryghedsvagter, der skal hjælpe politiet med at opretholde ro og orden - blandt andet ved Frederikssund Station efter mørkets frembrud	19	positiv
+928	Byudviklingen i Vinge skal fortsat prioriteres højt	10	positiv
+929	Horsens skal bruge flere penge på kulturarrangementer	11	positiv
+930	Byrådet skal sikre flere og bedre cykelstier i hele Horsens Kommune, før de prioriterer bedre plads på vejene til bilisterne	17	positiv
 931	Holstebro Kommune skal sikre en højere kvalitet på skoleområdet, selv hvis det medfører besparelser på andre områder	0	positiv
-932	Pasningsgarantien skal gøres lokal, så et barn er sikret en plads i institutionen tættest på dets bopæl	12	positiv
-781	Tønder kommune skal fortsat finde plads til nye solcelleparker og vindmøller	3	positiv
-783	Der skal være flere overnatningsmuligheder for turister på Rømø	11	positiv
-943	Herning Kommune skal lave flere sammenlægninger af kommunale folkeskoler	0	positiv
-945	Herning Kommune skal arbejde for at skaffe flere store kulturbegivenheder til kommunen	6	positiv
-965	Socialområdet skal friholdes for besparelser, selv hvis det betyder besparelser på andre områder	17	positiv
-929	Horsens skal bruge flere penge på kulturarrangementer	6	positiv
-930	Byrådet skal sikre flere og bedre cykelstier i hele Horsens Kommune, før de prioriterer bedre plads på vejene til bilisterne	2	positiv
-944	Horsens skal bygge flere plejehjemsboliger for at undgå den forventede mangel på pladser i fremtiden	1	positiv
+932	Pasningsgarantien skal gøres lokal, så et barn er sikret en plads i institutionen tættest på dets bopæl	0	positiv
+933	Kommunens mindre byer skal prioriteres højere, for eksempel gennem øget støtte til skoler og ældre	12	positiv
+934	Kommunen skal indkøbe nye elfærger til Ærø	7	positiv
+936	Der skal inddrages mere landbrugsjord til grønne energiprojekter som f.eks. vindmøller og solcelleparker	7	positiv
+937	Kommunens plejehjemsbeboere skal samles i færre og større ældrecentre i Hjørring, Hirtshals, Sindal, Tårs, Vrå og Løkken	15	negativ
+938	Det kan blive nødvendigt at lukke folkeskoler med under 100 elever	12	negativ
+939	Det er en god idé at bygge en ny kommunal svømmehal	11	positiv
+940	Byudviklingen i Favrholm skal fortsat prioriteres højt	10	positiv
+941	Der skal være bilfri zoner i midtbyen i Hillerød	4	negativ
+942	Der skal være færre medlemmer af byrådet end de nuværende 27	-1	positiv
+943	Herning Kommune skal lave flere sammenlægninger af kommunale folkeskoler	12	negativ
+944	Horsens skal bygge flere plejehjemsboliger for at undgå den forventede mangel på pladser i fremtiden	15	positiv
+945	Herning Kommune skal arbejde for at skaffe flere store kulturbegivenheder til kommunen	11	positiv
+946	Kommunen skal ansætte tryghedsvagter, der kan gå rundt i bestemte områder og forebygge uro	19	positiv
+947	Kommunen skal droppe førskoleordningen, hvor kommende skolebørn stopper i børnehaven og starter i SFO i foråret	0	positiv
+948	Grundejere skal betale hovedparten for kystsikringen ved Strandparken	14	negativ
+949	Der skal ansættes flere medarbejdere på plejehjemmene, også hvis det sker på bekostning af andre områder	15	positiv
+950	Det er en god idé at prioritere, at kommunens nye stadionfaciliteter ved idrætscenteret kan leve op til kravene for 1. divisionsfodbold	11	positiv
+951	Det er en god idé med en muslimsk gravplads i kommunen	3	positiv
+952	Ikast-Brande skal prioritere byudvikling i Ikast by frem for i resten af kommunens byer	12	negativ
+953	"Ikast-Brande Kommune skal godkende et biogasanlæg nord for Ikast"""	7	positiv
+954	Kommunen skal prioritere, at de ældre får gjort rent hver anden frem for hver tredje uge, også hvis det medfører besparelser på andre områder	15	positiv
+955	Det tidligere rådhus på Ådalsparkvej skal rives ned i stedet for at blive renoveret	-1	negativ
+956	Der skal bygges flere boliger for at tiltrække nye borgere til Hørsholm	10	positiv
+957	Rungsted Havn skal udvides med rekreative områder og plads til flere både	17	positiv
+958	Det er en god idé med en muslimsk gravplads i kommunen	3	positiv
+959	Der skal indføres stop for byggeri af nye boliger	10	negativ
+960	Høje-Taastrup skal tilbyde højere løn end omkringliggende kommuner for at rekruttere og fastholde pædagoger	0	positiv
+961	Kommunen skal fortsat stille krav om minimum 10 ugers projektbaseret undervisning i folkeskolerne	-1	negativ
+963	Projektet med stormflodssikring gennem landindvinding i havet syd for Avedøre Holme skal gennemføres	14	positiv
+964	Der skal være en frokostordning for børnene i alle daginstitutioner	0	positiv
+965	Socialområdet skal friholdes for besparelser, selv hvis det betyder besparelser på andre områder	2	positiv
+966	Det er en god idé, at kommunen etablerer støjhegn ved kunstgræsbanerne ved B1973	11	positiv
+967	Det er en god idé med tryghedsvagter, der patruljerer i Greve for at forebygge uro og bidrage til øget tryghed	19	positiv
+968	Det er en god idé, at et EU-statsborgerskab er afgørende for, om man må flytte ind i boligområdet Askerød	9	positiv
+969	Der skal indføres stop for byggeri af nye boliger	10	negativ
+971	Kommunen skal give økonomisk tilskud til forældre, der passer egne børn hjemme	0	positiv
+972	Kommunen skal droppe førskoleordningen, hvor kommende skolebørn stopper i børnehaven og starter i SFO i foråret	0	positiv
+973	Der skal indføres stop for byggeri af nye boliger	10	negativ
+974	Det er en god idé at sænke hastighedsgrænsen på de kommunale veje	4	negativ
+975	Gentofte Kommune skal tilbyde højere løn end omkringliggende kommuner for at rekruttere og fastholde pædagoger	0	positiv
+976	Kommunalbestyrelsen skal genindføre kravet om en times bevægelse i folkeskolerne	-1	negativ
+977	Det skal være en prioritet, at separeringen af kloaksystemet i regn- og spildevand skal gennemføres hurtigere end i år 2050, som er planen nu	7	positiv
+979	Det er en god idé at sænke hastighedsgrænsen på de kommunale veje	4	negativ
+980	Det er en god idé at have store græssende dyr - fx kvæg - på Baunesletten	18	positiv
+981	Kommunen skal støtte kystbeskyttelsesprojekter økonomisk, selv hvis det betyder besparelser på andre områder	14	positiv
+982	Beslutningen om at spare på affaldstømning for at få råd til el-skraldebiler skal rulles tilbage	7	negativ
+983	Kommunen skal bevare førskoleordningen, hvor kommende skolebørn stopper i børnehaven og starter i SFO i foråret	0	negativ
+984	Strandfodringen - påfyldning af sand - er den rigtige løsning i kystsikringsprojektet ‘Nordkystens Fremtid’	-1	positiv
+985	Kommunen skal føre mere kontrol med den jord, der bliver læsset af i Gribskov	19	positiv
+986	Der skal indføres stop for byggeri af nye boliger	10	negativ
+987	Kommunen skal bruge penge på at få store sportsarrangementer til Helsingør	11	positiv
+988	Det skal fortsat koste penge at parkere i centrum af Helsingør	4	negativ
+989	Kommunen skal fortsat have regler for, hvor sent unge under 18 år må opholde sig i nattelivet, hvor der udskænkes alkohol	19	positiv
+990	Kommunen skal lukke folkeskoler med færre end 100 elever for at spare penge	12	negativ
+991	Den kollektive trafik skal styrkes med flere busafgange	17	positiv
+992	Der skal bygges et kulturhus i Hedensted	11	positiv
+993	Det er en god idé at yde økonomisk støtte til filmprojekter med optagelser i Halsnæs	11	positiv
+994	Det er en god idé at bygge et strandhotel på Hundested Havn	16	positiv
+995	Alle folkeskoler i Halsnæs skal have deres egen forebyggelsesrådgiver, der kan hjælpe børn og unge med deres problemer	2	positiv
+996	Haderslev skal have et nyt havnebad og hotel, der kan blive vartegn for byen	17	positiv
+997	Kommunen skal invitere til åbne borgermøder, når der skal laves nye solcelle- og vindmølleparker	13	positiv
+998	Haderslev Kommune skal investere i infrastruktur til gavn for det danske forsvar	-1	positiv
+999	Guldborgsund Kommune skal være bedre til at give individuel støtte tilunge med psykiske lidelser, så de kan komme i job eller uddannelse	2	positiv
+1000	Kommunen skal sikre sommerhusområder mod oversvømmelser	14	positiv
+1001	Byrådet skal modarbejde, at der bliver sat elge ud i naturnationalparken i Gribskov	-1	positiv
+1002	Der skal bygges en ny daginstitution i Ærøskøbing	0	positiv

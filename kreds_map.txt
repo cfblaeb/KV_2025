@@ -1,0 +1,196 @@
+hvidovre
+sønderborg
+billund
+ringkøbing-skjern
+greve kommune
+ballerup
+frederikshavn kommune
+egedal kommune
+gribskov kommune
+københavns kommune
+halsnæs
+skive
+solrød
+herning kommune
+lemvig
+roskilde
+haderslev
+lolland
+rudersdal kommune
+brøndby
+nyborg
+ishøj
+horsens kommune
+tønder
+varde kommune
+kolding kommune
+hedensted kommune
+roskilde kommune
+langeland kommune
+ringkøbing-skjern kommune
+assens kommune
+aalborg kommune
+lemvig kommune
+aabenraa
+middelfart
+dragør
+fredensborg kommune
+egedal
+kerteminde kommune
+fredericia
+favrskov kommune
+odsherred
+odense kommune
+frederikshavn
+odense
+stevns kommune
+varde
+frederikssund
+kerteminde
+skanderborg
+ærø kommune
+næstved
+køge
+faaborg-midtfyn kommune
+køge kommune
+dragør kommune
+greve
+jammerbugt
+lyngby-taarbæk kommune
+kolding
+albertslund
+faxe kommune
+randers
+faxe
+norddjurs kommune
+ishøj kommune
+viborg kommune
+syddjurs
+helsingør kommune
+struer
+fredensborg
+mariagerfjord kommune
+guldborgsund
+holstebro
+kalundborg kommune
+rødovre
+sorø
+gladsaxe
+thisted
+sønderborg kommune
+frederiksberg
+herlev
+gentofte kommune
+fanø kommune
+morsø kommune
+vallensbæk
+hjørring
+slagelse kommune
+hillerød
+aarhus
+hvidovre kommune
+langeland
+svendborg kommune
+furesø kommune
+samsø kommune
+hedensted
+aalborg
+høje-taastrup kommune
+silkeborg
+holstebro kommune
+slagelse
+vesthimmerlands
+hørsholm kommune
+læsø kommune
+horsens
+solrød kommune
+gribskov
+odder kommune
+allerød
+assens
+randers kommune
+skive kommune
+stevns
+brønderslev kommune
+ikast-brande
+brøndby kommune
+tønder kommune
+næstved kommune
+hillerød kommune
+nordfyns kommune
+holbæk kommune
+bornholms regionskommune
+faaborg-midtfyn
+odsherred kommune
+vejen kommune
+norddjurs
+albertslund kommune
+holbæk
+høje-taastrup
+halsnæs kommune
+jammerbugt kommune
+vallensbæk kommune
+kalundborg
+vejle kommune
+fredericia kommune
+lejre
+skanderborg kommune
+sorø kommune
+bornholm
+hørsholm
+vordingborg
+esbjerg
+rudersdal
+furesø
+aabenraa kommune
+ringsted kommune
+glostrup kommune
+lyngby-taarbæk
+morsø
+mariagerfjord
+favrskov
+syddjurs kommune
+aarhus kommune
+frederiksberg kommune
+haderslev kommune
+thisted kommune
+samsø
+ballerup kommune
+herning
+odder
+brønderslev
+rebild
+glostrup
+struer kommune
+middelfart kommune
+gladsaxe kommune
+nordfyns
+nyborg kommune
+københavn
+viborg
+rebild kommune
+tårnby kommune
+vesthimmerlands kommune
+allerød kommune
+lolland kommune
+helsingør
+svendborg
+lejre kommune
+læsø
+hjørring kommune
+vordingborg kommune
+tårnby
+gentofte
+ringsted
+ærø
+frederikssund kommune
+guldborgsund kommune
+rødovre kommune
+vejle
+ikast-brande kommune
+billund kommune
+fanø
+esbjerg kommune
+vejen
+herlev kommune
+silkeborg kommune
